@@ -1,4 +1,4 @@
-** Recompense **
+**Recompense**
 Robert E. Howard, Nov 1938
 
 I have not heard lutes beckon me, nor the brazen bugles call,
