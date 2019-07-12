@@ -1,7 +1,6 @@
-**Recompense**\
+**Recompense**
 ---
-Robert E. Howard, Nov 1938
-
+_Robert E. Howard, Nov 1938_
 
 I have not heard lutes beckon me, nor the brazen bugles call,\
 But once in the dim of a haunted lea I heard the silence fall.\
