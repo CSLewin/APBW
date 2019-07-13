@@ -8,12 +8,12 @@ Chapters:
 
 # MECHANICS
 
-**Introduction**  
+1. **Introduction**  
 - What is this book?  
 - How is this game different from other RPGS?  
 - What do you require to play?
 
-**Core Mechanics**
+2. **Core Mechanics**
 - Ability Scores  
 	- Might	- How much force can you muster?  
 	- Grace	- How deft are you?  
@@ -30,7 +30,7 @@ Chapters:
 	- Fate score (0-5) determines Fate Die (d4, d6, d8, d10, d12, d20)
 	- Once per session, you or another player can add YOUR Fate die to a d20 roll OR roll a 2d6 skill check with advantage.
 
-**Character Creation**
+3. **Character Creation**
 - Personality and Background
 - Motivation and Goals
 	- Piety and Immortality
@@ -51,7 +51,7 @@ Chapters:
 	- Warrior
 	- Wizard
 
-**Equipment**
+4. **Equipment**
 - Armor and Weapons
 - Tools, Gear, and Animals
 - Followers
