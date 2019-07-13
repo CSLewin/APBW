@@ -14,13 +14,13 @@ Chapters:
  - What do you require to play?
 
 **Core Mechanics**
-	Ability Scores  
-		Might	- How much force can you muster?  
-		Grace	- How deft are you?  
-		Grit	- How long can you endure?  
-		Charm	- How convincing are you?  
-		Lore	- How much do you remember?  
-		Fate	- How lucky are you?  
+ - Ability Scores  
+ - - Might	- How much force can you muster?  
+ - - Grace	- How deft are you?  
+ - - Grit	- How long can you endure?  
+ - - Charm	- How convincing are you?  
+ - - Lore	- How much do you remember?  
+ - - Fate	- How lucky are you?  
 	Ability Checks  
 		How skills affect checks  
 	Attacks and Damage
