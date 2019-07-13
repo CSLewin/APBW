@@ -21,14 +21,14 @@ Chapters:
 	- Charm	- How convincing are you?  
 	- Lore	- How much do you remember?  
 	- Fate	- How lucky are you?  
-	Ability Checks  
-		How skills affect checks  
-	Attacks and Damage
-		Melee
-		Ranged
-	Fate as a resource
-		Fate score (0-5) determines Fate Die (d4, d6, d8, d10, d12, d20)
-		Once per session, you or another player can add YOUR Fate die to a d20 roll OR roll a 2d6 skill check with advantage.
+Ability Checks  
+	How skills affect checks  
+Attacks and Damage
+	Melee
+	Ranged
+Fate as a resource
+	Fate score (0-5) determines Fate Die (d4, d6, d8, d10, d12, d20)
+	Once per session, you or another player can add YOUR Fate die to a d20 roll OR roll a 2d6 skill check with advantage.
 
 **Character Creation**
 	Personality and Background
