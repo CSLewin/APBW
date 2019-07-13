@@ -1,26 +1,28 @@
 Chapters:
 
-# FOREMATTER*
+# FOREMATTER
 
-Special Thanks
+**Colophon And Etc.**
+
+**Special Thanks**
 
 # MECHANICS
 
 **Introduction**
-	What is this book?
-	How is this game different from other RPGS?
-	What do you require to play?
+	What is this book?\
+	How is this game different from other RPGS?\
+	What do you require to play?\
 
 **Core Mechanics**
-	Ability Scores
-		Might	- How much force can you muster?
-		Grace	- How deft are you?
-		Grit	- How long can you endure?
-		Charm	- How convincing are you?
-		Lore	- How much do you remember?
-		Fate	- How lucky are you?
-	Ability Checks
-		How skills affect checks
+	Ability Scores\
+		Might	- How much force can you muster?\
+		Grace	- How deft are you?\
+		Grit	- How long can you endure?\
+		Charm	- How convincing are you?\
+		Lore	- How much do you remember?\
+		Fate	- How lucky are you?\
+	Ability Checks\
+		How skills affect checks\
 	Attacks and Damage
 		Melee
 		Ranged
