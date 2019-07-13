@@ -8,10 +8,10 @@ Chapters:
 
 # MECHANICS
 
-**Introduction**
-	What is this book?\
-	How is this game different from other RPGS?\
-	What do you require to play?\
+**Introduction**\
+	- What is this book?\
+	- How is this game different from other RPGS?\
+	- What do you require to play?
 
 **Core Mechanics**
 	Ability Scores\
@@ -23,7 +23,6 @@ Chapters:
 		Fate	- How lucky are you?\
 	Ability Checks\
 		How skills affect checks\
-		
 	Attacks and Damage
 		Melee
 		Ranged
