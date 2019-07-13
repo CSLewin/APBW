@@ -54,8 +54,7 @@ Chapters:
 4. **Equipment**
 - Armor and Weapons
 - Tools, Gear, and Animals
-- Followers
-	- https://diaghilevsdice.blogspot.com/2019/05/simple-followers.html
+- Followers (https://diaghilevsdice.blogspot.com/2019/05/simple-followers.html)
 
 
 # SETTING
