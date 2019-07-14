@@ -68,10 +68,10 @@ Armor:
 	Armor provides damage resistance but restricts movement. If you want to avoid the touch of a blade, stay light and move quickly. For those lacking grace, endurance requires steel. Wearing heavy armor imparts a maximum amount of Grace that may be added to the wearer's AC.
 
 	Armor		Slots	Damage Reduction	Maximum Grace Applied to AC
-	Unarmored	0		0	No Maximum
-	Leather		2		2	4
-	Chain 		3		3	3
-	Plate		4		4	2
+	Unarmored	0		0		No Maximum
+	Leather		2		2		4
+	Chain 		3		3		3
+	Plate		4		4		2
 
 Armor Durability:
 	Absorbing blows will eventually destroy armor unless it is skillfully maintained. When any die rolled for damage shows the highest value possible on that individual die, armor worn by the target of that damage receives a strike. If a damage roll uses multiple dice, each die showing the highest value possible inflicts a strike. When a suit of armor has a number of strikes equal to the damage reduction it provides, the armor has been destroyed and provides no defensive benefit while it is worn. Destroyed armor may be repaired by paying half the price of the armor in civilization, which removes all strikes from the armor.
