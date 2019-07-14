@@ -2,15 +2,23 @@ Weapons, Damage Types, Shields, Armor, Damage Reduction
 
 WEAPONS
 
-By default, all weapons do a base damage of 1d8 and take up one slot.
+By default, all weapons require one hand to wield, deal 1d8 damage, and take up one inventory slot.
+
+Ranges for weapons and magic fall into three categories: **Whisper**, **Speak**, and **Shout**. These categories describe the maximum distance at which the weapon or spell is effective.
 
 Weapons wielded in melee combat add Might to attack and damage rolls.
 Weapons wielded in ranged combat add Grace to attack and damage rolls.
-Magical fighting techniques add Lore to attack and damage rolls.
+All magical fighting techniques (melee or ranged) add Lore to attack and damage rolls.
 
 Damage chain: (minimum) 1d4 <--> 1d6 <--> 1d8 <--> 1d10 <--> 2d6 (maximum)
 
 A weapon quality may only be applied to a weapon once.
+
+Weapon Origin:
+	Aneman/Pirran/Jhil: Standard
+	Temenite: Constructed entirely of nonmetallic materials equivalent in weight and function to steel.
+	Imperial: Durable but heavy. +1 slot; may ignore the first strike suffered by the armor/weapon each session.
+	Chernikan: Light but brittle. -1 slot; first strike suffered by the item counts as two strikes, each of which must be repaired.
 
 Weapon Qualities:
 	Light: This weapon is suitable for dual-wielding. -d, -1 slot
@@ -38,7 +46,13 @@ Damage Types:
 Dual-Wielding: A difficult but impressive technique. On a successful attack made while dual-wielding, a character rolls damage for both weapons but applies only the higher result.
 
 Weapon Durability:
-	On an attack roll of a natural 1, a weapon strikes or is fired awkwardly and may become damaged, waste ammunition, or become mystically misaligned.
+	On an attack roll of a natural 1, a weapon strikes awkwardly or is fired imprudently and may become damaged, waste ammunition, or become mystically misaligned.
+	
+	Melee weapons suffer a -1 penalty to damage for every strike they have received. If this would reduce a weapon damage roll to 0 or less, the weapon breaks and cannot be used until it is repaired. All melee weapon strikes may be removed from a weapon with an hour's work and access to tools as simple as a whetstone, file, or hammer.
+	
+	Ranged weapons immediately roll their ammo usage die when they receive a strike in addition to the end of the combat in which the weapon was fired.
+
+	Magic fighting techniques **gain** an additional damage die of their existing type when they receive a strike. If any two or more damage dice roll matching numbers, the technique's power exceeds the character's control and immediately deals the total damage rolled to the attacker rather than the target.
 
 Shields: 
 	Shields take up between 1 and 3 inventory slots. A shield provides +1 AC per inventory slot it occupies. The wielder may use a shield to absorb the brunt of any visible source of damage; when used in this way, the damage is halved before applying the wielder's damage reduction. A shield may absorb a number of strikes equal to the number of inventory slots it occupies.
