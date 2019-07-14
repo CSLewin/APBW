@@ -16,19 +16,25 @@ Chapters:
 2. **Core Mechanics**
 - Ability Scores  
 	- Might	- How much force can you muster?  
+	- Grit	- How much can you resist?  
 	- Grace	- How deft are you?  
-	- Grit	- How long can you endure?  
 	- Charm	- How convincing are you?  
-	- Lore	- How much do you remember?  
+	- Lore	- How much can you remember?  
 	- Fate	- How lucky are you?  
 - Ability Checks  
-	- How skills affect checks  
+	- How skills affect checks (no skill = flat 2d6; skill = 2d6+stat)
+	- ONLY ROLL SKILL CHECKS WHEN SUCCESS AND FAILURE BOTH COULD ADVANCE THE STORY.
+- Defenses
+	- Armor Class (10 + Grace)
+	- Resistance (10 + Higher of Might or Grit)
+	- Agility (10 + Higher of Grace or Charm)
+	- Discipline (10 + Higher of Lore or Fate)
 - Attacks and Damage
 	- Melee
 	- Ranged
 - Fate as a resource
 	- Fate score (0-5) determines Fate Die (d4, d6, d8, d10, d12, d20)
-	- Once per session, you or another player can add YOUR Fate die to a d20 roll OR roll a 2d6 skill check with advantage.
+	- Once per session, you may grant yourself or another player the ability to add YOUR Fate die to a d20 roll OR roll a 2d6 skill check with advantage.
 
 3. **Character Creation**
 - Personality and Background
