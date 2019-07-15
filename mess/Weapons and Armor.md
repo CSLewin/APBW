@@ -6,8 +6,8 @@ By default, all weapons require one hand to wield, deal 1d8 damage, and take up 
 
 Ranges for weapons and magic fall into three categories: **Whisper**, **Speak**, and **Shout**. These categories describe the maximum distance at which the weapon or spell is effective.
 
-Weapons wielded in melee combat add Might to attack and damage rolls.
-Weapons wielded in ranged combat add Grace to attack and damage rolls.
+Weapons wielded in melee combat add Might to attack and damage rolls.  
+Weapons wielded in ranged combat add Grace to attack and damage rolls. 
 All magical fighting techniques (melee or ranged) add Lore to attack and damage rolls.
 
 Damage chain: (minimum) 1d4 <--> 1d6 <--> 1d8 <--> 1d10 <--> 2d6 (maximum)
