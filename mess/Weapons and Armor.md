@@ -107,7 +107,7 @@ A shield may be used as a weapon that deals bludgeoning, piercing, or slashing d
 	2	4.5	5.5	6.5	7.5	9
 	3	5.5	6.5	7.5	8.5	10
 	4	6.5	7.5	8.5	9.5	11
-	5	7.5	8.5	9.5	10.512
+	5	7.5	8.5	9.5	10.5	12
 
 
 	Grace 	Grit 	Armor Worn 	AC 	Damage Reduction
