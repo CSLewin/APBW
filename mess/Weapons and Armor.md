@@ -8,6 +8,7 @@ All weapons have the following qualities:
 - Range (Whisper, Speak, Shout)
 - Damage Type (Bludgeoning, Piercing, Slashing)
 - Weight (0 or more inventory slots)
+- Modifications (See Below)
 
 By default, all weapons are one-handed, deal 1d8 damage, and take up one inventory slot.
 
@@ -31,7 +32,7 @@ Weapon Origin:
 	Imperial: Durable but heavy. +1 slot; may ignore the first strike suffered by the armor/weapon each session.
 	Chernikan: Light but brittle. -1 slot; first strike suffered by the item counts as two strikes, each of which must be repaired.
 
-Weapon Qualities:
+Weapon Modifications:
 
 	Light: This weapon is particularly easy to handle and quite suitable for dual-wielding. -d, -1 slot
 	Heavy: Requires two hands to wield. +d, +1 slot
@@ -88,11 +89,13 @@ Outside of civilization, strikes may be removed from a suit of armor with an hou
 Grit and Armor both provide points of damage reduction. Reduce all incoming sources of damage by an amount equal to a character's damage reduction. Beware--some attacks may reduce or entirely ignore a character's damage reduction. No matter how much damage reduction a character has, a successful attack always inflicts at least 1 damage.
 
 ### Shields
-Shields take up between 1 and 3 inventory slots. A shield provides +1 AC per inventory slot it occupies. The wielder may use a shield to absorb the brunt of any visible source of damage; when used in this way, the damage is halved before applying the wielder's damage reduction. A shield may absorb a number of strikes equal to the number of inventory slots it occupies.
+Shields take up between 1 and 3 inventory slots. A shield provides +1 AC per inventory slot it occupies. 
+
+A wielder may use a shield to absorb the brunt of any visible source of damage; when used in this way, the damage is halved before applying the wielder's damage reduction. A shield may absorb a number of strikes equal to the number of inventory slots it occupies before it is destroyed.
 
 3-slot shields are large enough to be used as cover; if a 3-slot shield's wielder does not move during their turn, they may hide their entire body behind the shield. The shield's wielder gains an additional +2 AC against ranged attacks until the start of their next turn.
 
-A shield may be used as a weapon that deals bludgeoning, piercing, or slashing damage (selected at the time of purchase or creation). No weapon qualities may be applied to a shield. A wielder does not gain the shield's bonus to AC until the start of the wielder's next turn after the one in which they made an attack using the shield.
+A shield may be used as a weapon that deals bludgeoning, piercing, or slashing damage as selected at the time of purchase or creation). No weapon modifications may be applied to a shield. A wielder does not gain the shield's bonus to AC until the start of the wielder's next turn after the one in which they make an attack using the shield.
 
 
 ---
