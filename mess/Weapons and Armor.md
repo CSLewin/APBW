@@ -66,7 +66,7 @@ Melee weapons suffer a -1 penalty to damage for every strike they have received.
 Ranged weapons immediately roll their ammo usage die when they receive a strike in addition to the end of the combat in which the weapon was fired.
 
 Magic fighting techniques **gain** an additional damage die of their existing die size when they receive a strike. If any two or more damage dice roll matching numbers, the technique's power exceeds the character's control and immediately deals the total damage rolled to the attacker in addition to the target. All magic fighting technique strikes may be removed with an hour of uninterrupted meditation.
-	- Note to self: Write a method for warlocks to deliberately overcharge their power to start out with higher dicepools.
+- Note to self: Write a method for warlocks to deliberately overcharge their power to start out with higher dicepools.
 
 ## Armor and Shields
 
