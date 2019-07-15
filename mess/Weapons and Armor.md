@@ -39,7 +39,7 @@ Weapon Qualities:
 	Defensive: Any round in which this weapon is wielded but not used to attack, the weapon provides +1 AC. +1 slot
 	Vicious: The weapon bears cruel hooks, barbs, or serrations. Handle with care. +d, +2 slots
 
-### Critical Hits:
+### Critical Hits
 A critical hit occurs when an attacker rolls a natural 20. 
 - First, the attack automatically hits regardless of target's relevant defense. 
 - Second, the attack's damage is increased to the maximum value possible for the attack plus an additional roll of the attack's damage dice and modifiers.
@@ -47,8 +47,7 @@ A critical hit occurs when an attacker rolls a natural 20.
 	- An attack normally dealing 2d6+3 damage would deal 15 + 2d6+3 damage on a critical hit.
 - Third, the type of damage inflicted determines an additional critical effect.
 
-### Damage Types:
-
+### Damage Types
 - Bludgeoning: Ignores an amount of target's damage reduction equal to the wielder's Might score.
 	- Critical Effect: The target is battered away from the attacker in a straight line with a distance equal to 5 feet times the attacker's Might or Grace score (attacker's choice).
 - Piercing: Add the wielder's Might or Grace score to the attack roll twice, rather than once.
@@ -56,16 +55,17 @@ A critical hit occurs when an attacker rolls a natural 20.
 - Slashing: Add the wielder's Might or Grace score to the damage value twice, rather than once.
 	- Critical Effect: The target's armor immediately suffers two strikes in addition to any strikes normally inflicted.
 
-### Dual-Wielding: A difficult but impressive technique. When dual-wielding, the attack makes a single attack roll representing an attempt to strike with both weapons. The total inventory slots occupied by all wielded weapons are applied as a penalty to the wielder's attack roll. On a successful attack made while dual-wielding, the attacker rolls damage for both weapons but applies only the higher result.
+### Dual-Wielding: 
+Fighting with more than one weapon simultaneously is a difficult but impressive technique. When dual-wielding, the attacker makes a single attack roll representing an attempt to strike with both weapons. While dual-wielding, the total number of inventory slots occupied by all wielded weapons are applied as a penalty to the wielder's attack roll. On a successful attack made while dual-wielding, the attacker rolls damage for both weapons but applies only the higher result.
 
-Weapon Durability:
-	On an attack roll of a natural 1, a weapon strikes awkwardly or is fired imprudently and may become damaged, waste ammunition, or become mystically misaligned.
-	
-	Melee weapons suffer a -1 penalty to damage for every strike they have received. If this penalty would reduce a weapon's total damage roll to 0 or less, the weapon breaks and cannot be used until it is repaired. All melee weapon strikes may be removed from a weapon with an hour's work and access to tools as simple as a whetstone, file, or hammer.
-	
-	Ranged weapons immediately roll their ammo usage die when they receive a strike in addition to the end of the combat in which the weapon was fired.
+### Weapon Durability
+On an attack roll of a natural 1, a weapon strikes awkwardly or is fired imprudently and may become damaged, waste ammunition, or become mystically misaligned.
 
-	Magic fighting techniques **gain** an additional damage die of their existing die size when they receive a strike. If any two or more damage dice roll matching numbers, the technique's power exceeds the character's control and immediately deals the total damage rolled to the attacker in addition to the target. All magic fighting technique strikes may be removed with an hour of uninterrupted meditation.
+Melee weapons suffer a -1 penalty to damage for every strike they have received. If this penalty would reduce a weapon's total damage roll to 0 or less, the weapon breaks and cannot be used until it is repaired. All melee weapon strikes may be removed from a weapon with an hour's work and access to tools as simple as a whetstone, file, or hammer.
+	
+Ranged weapons immediately roll their ammo usage die when they receive a strike in addition to the end of the combat in which the weapon was fired.
+
+Magic fighting techniques **gain** an additional damage die of their existing die size when they receive a strike. If any two or more damage dice roll matching numbers, the technique's power exceeds the character's control and immediately deals the total damage rolled to the attacker in addition to the target. All magic fighting technique strikes may be removed with an hour of uninterrupted meditation.
 	- Note to self: Write a method for warlocks to deliberately overcharge their power to start out with higher dicepools.
 
 ## Armor and Shields
