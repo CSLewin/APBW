@@ -142,156 +142,156 @@ A shield may be used as a weapon that deals bludgeoning, piercing, or slashing d
 			Plate		10	Grit + 4 = 9
 
 	Grace 	Grit 	Armor Worn 	AC 	Damage Reduction
-	1		0		Unarmored	10	Grit + 0 = 0
-					Leather		11	Grit + 2 = 2
-					Chain		11	Grit + 3 = 3
-					Plate		11	Grit + 4 = 4
+	1	0	Unarmored	10	Grit + 0 = 0
+			Leather		11	Grit + 2 = 2
+			Chain		11	Grit + 3 = 3
+			Plate		11	Grit + 4 = 4
 			
-			1		Unarmored	10	Grit + 0 = 1
-					Leather		11	Grit + 2 = 3
-					Chain		11	Grit + 3 = 4
-					Plate		11	Grit + 4 = 5
+		1	Unarmored	10	Grit + 0 = 1
+			Leather		11	Grit + 2 = 3
+			Chain		11	Grit + 3 = 4
+			Plate		11	Grit + 4 = 5
 			
-			2		Unarmored	10	Grit + 0 = 2
-					Leather		11	Grit + 2 = 4
-					Chain		11	Grit + 3 = 5
-					Plate		11	Grit + 4 = 6
+		2	Unarmored	10	Grit + 0 = 2
+			Leather		11	Grit + 2 = 4
+			Chain		11	Grit + 3 = 5
+			Plate		11	Grit + 4 = 6
 			
-			3		Unarmored	10	Grit + 0 = 3
-					Leather		11	Grit + 2 = 5
-					Chain		11	Grit + 3 = 6
-					Plate		11	Grit + 4 = 7
+		3	Unarmored	10	Grit + 0 = 3
+			Leather		11	Grit + 2 = 5
+			Chain		11	Grit + 3 = 6
+			Plate		11	Grit + 4 = 7
 			
-			4		Unarmored	10	Grit + 0 = 4
-					Leather		11	Grit + 2 = 6
-					Chain		11	Grit + 3 = 7
-					Plate		11	Grit + 4 = 8
+		4	Unarmored	10	Grit + 0 = 4
+			Leather		11	Grit + 2 = 6
+			Chain		11	Grit + 3 = 7
+			Plate		11	Grit + 4 = 8
 			
-			5		Unarmored	10	Grit + 0 = 5
-					Leather		11	Grit + 2 = 7
-					Chain		11	Grit + 3 = 8
-					Plate		11	Grit + 4 = 9
+		5	Unarmored	10	Grit + 0 = 5
+			Leather		11	Grit + 2 = 7
+			Chain		11	Grit + 3 = 8
+			Plate		11	Grit + 4 = 9
 
 	Grace 	Grit 	Armor Worn 	AC 	Damage Reduction
-	2		0		Unarmored	12	Grit + 0 = 0
-					Leather		12	Grit + 2 = 2
-					Chain		12	Grit + 3 = 3
-					Plate		12	Grit + 4 = 4
+	2	0	Unarmored	12	Grit + 0 = 0
+			Leather		12	Grit + 2 = 2
+			Chain		12	Grit + 3 = 3
+			Plate		12	Grit + 4 = 4
 			
-			1		Unarmored	12	Grit + 0 = 1
-					Leather		12	Grit + 2 = 3
-					Chain		12	Grit + 3 = 4
-					Plate		12	Grit + 4 = 5
+		1	Unarmored	12	Grit + 0 = 1
+			Leather		12	Grit + 2 = 3
+			Chain		12	Grit + 3 = 4
+			Plate		12	Grit + 4 = 5
 			
-			2		Unarmored	12	Grit + 0 = 2
-					Leather		12	Grit + 2 = 4
-					Chain		12	Grit + 3 = 5
-					Plate		12	Grit + 4 = 6
+		2	Unarmored	12	Grit + 0 = 2
+			Leather		12	Grit + 2 = 4
+			Chain		12	Grit + 3 = 5
+			Plate		12	Grit + 4 = 6
 			
-			3		Unarmored	12	Grit + 0 = 3
-					Leather		12	Grit + 2 = 5
-					Chain		12	Grit + 3 = 6
-					Plate		12	Grit + 4 = 7
+		3	Unarmored	12	Grit + 0 = 3
+			Leather		12	Grit + 2 = 5
+			Chain		12	Grit + 3 = 6
+			Plate		12	Grit + 4 = 7
 			
-			4		Unarmored	12	Grit + 0 = 4
-					Leather		12	Grit + 2 = 6
-					Chain		12	Grit + 3 = 7
-					Plate		12	Grit + 4 = 8
+		4	Unarmored	12	Grit + 0 = 4
+			Leather		12	Grit + 2 = 6
+			Chain		12	Grit + 3 = 7
+			Plate		12	Grit + 4 = 8
 			
-			5		Unarmored	12	Grit + 0 = 5
-					Leather		12	Grit + 2 = 7
-					Chain		12	Grit + 3 = 8
-					Plate		12	Grit + 4 = 9
+		5	Unarmored	12	Grit + 0 = 5
+			Leather		12	Grit + 2 = 7
+			Chain		12	Grit + 3 = 8
+			Plate		12	Grit + 4 = 9
 
 	Grace 	Grit 	Armor Worn 	AC 	Damage Reduction
-	3		0		Unarmored	13	Grit + 0 = 0
-					Leather		13	Grit + 2 = 2
-					Chain		13	Grit + 3 = 3
-					Plate		12	Grit + 4 = 4
+	3	0	Unarmored	13	Grit + 0 = 0
+			Leather		13	Grit + 2 = 2
+			Chain		13	Grit + 3 = 3
+			Plate		12	Grit + 4 = 4
 			
-			1		Unarmored	13	Grit + 0 = 1
-					Leather		13	Grit + 2 = 3
-					Chain		13	Grit + 3 = 4
-					Plate		12	Grit + 4 = 5
+		1	Unarmored	13	Grit + 0 = 1
+			Leather		13	Grit + 2 = 3
+			Chain		13	Grit + 3 = 4
+			Plate		12	Grit + 4 = 5
 			
-			2		Unarmored	13	Grit + 0 = 2
-					Leather		13	Grit + 2 = 4
-					Chain		13	Grit + 3 = 5
-					Plate		12	Grit + 4 = 6
+		2	Unarmored	13	Grit + 0 = 2
+			Leather		13	Grit + 2 = 4
+			Chain		13	Grit + 3 = 5
+			Plate		12	Grit + 4 = 6
 			
-			3		Unarmored	13	Grit + 0 = 3
-					Leather		13	Grit + 2 = 5
-					Chain		13	Grit + 3 = 6
-					Plate		12	Grit + 4 = 7
+		3	Unarmored	13	Grit + 0 = 3
+			Leather		13	Grit + 2 = 5
+			Chain		13	Grit + 3 = 6
+			Plate		12	Grit + 4 = 7
 			
-			4		Unarmored	13	Grit + 0 = 4
-					Leather		13	Grit + 2 = 6
-					Chain		13	Grit + 3 = 7
-					Plate		12	Grit + 4 = 8
+		4	Unarmored	13	Grit + 0 = 4
+			Leather		13	Grit + 2 = 6
+			Chain		13	Grit + 3 = 7
+			Plate		12	Grit + 4 = 8
 			
-			5		Unarmored	13	Grit + 0 = 5
-					Leather		13	Grit + 2 = 7
-					Chain		13	Grit + 3 = 8
-					Plate		12	Grit + 4 = 9
+		5	Unarmored	13	Grit + 0 = 5
+			Leather		13	Grit + 2 = 7
+			Chain		13	Grit + 3 = 8
+			Plate		12	Grit + 4 = 9
 
 	Grace 	Grit 	Armor Worn 	AC 	Damage Reduction
-	4		0		Unarmored	14	Grit + 0 = 0
-					Leather		14	Grit + 2 = 2
-					Chain		13	Grit + 3 = 3
-					Plate		12	Grit + 4 = 4
+	4	0	Unarmored	14	Grit + 0 = 0
+			Leather		14	Grit + 2 = 2
+			Chain		13	Grit + 3 = 3
+			Plate		12	Grit + 4 = 4
 			
-			1		Unarmored	14	Grit + 0 = 1
-					Leather		14	Grit + 2 = 3
-					Chain		13	Grit + 3 = 4
-					Plate		12	Grit + 4 = 5
+		1	Unarmored	14	Grit + 0 = 1
+			Leather		14	Grit + 2 = 3
+			Chain		13	Grit + 3 = 4
+			Plate		12	Grit + 4 = 5
 			
-			2		Unarmored	14	Grit + 0 = 2
-					Leather		14	Grit + 2 = 4
-					Chain		13	Grit + 3 = 5
-					Plate		12	Grit + 4 = 6
+		2	Unarmored	14	Grit + 0 = 2
+			Leather		14	Grit + 2 = 4
+			Chain		13	Grit + 3 = 5
+			Plate		12	Grit + 4 = 6
 			
-			3		Unarmored	14	Grit + 0 = 3
-					Leather		14	Grit + 2 = 5
-					Chain		13	Grit + 3 = 6
-					Plate		12	Grit + 4 = 7
+		3	Unarmored	14	Grit + 0 = 3
+			Leather		14	Grit + 2 = 5
+			Chain		13	Grit + 3 = 6
+			Plate		12	Grit + 4 = 7
 			
-			4		Unarmored	14	Grit + 0 = 4
-					Leather		14	Grit + 2 = 6
-					Chain		13	Grit + 3 = 7
-					Plate		12	Grit + 4 = 8
+		4	Unarmored	14	Grit + 0 = 4
+			Leather		14	Grit + 2 = 6
+			Chain		13	Grit + 3 = 7
+			Plate		12	Grit + 4 = 8
 			
-			5		Unarmored	14	Grit + 0 = 5
-					Leather		14	Grit + 2 = 7
-					Chain		13	Grit + 3 = 8
-					Plate		12	Grit + 4 = 9
+		5	Unarmored	14	Grit + 0 = 5
+			Leather		14	Grit + 2 = 7
+			Chain		13	Grit + 3 = 8
+			Plate		12	Grit + 4 = 9
 
 	Grace 	Grit 	Armor Worn 	AC 	Damage Reduction
-	5		0		Unarmored	15	Grit + 0 = 0
-					Leather		14	Grit + 2 = 2
-					Chain		13	Grit + 3 = 3
-					Plate		12	Grit + 4 = 4
+	5	0	Unarmored	15	Grit + 0 = 0
+			Leather		14	Grit + 2 = 2
+			Chain		13	Grit + 3 = 3
+			Plate		12	Grit + 4 = 4
 			
-			1		Unarmored	15	Grit + 0 = 1
-					Leather		14	Grit + 2 = 3
-					Chain		13	Grit + 3 = 4
-					Plate		12	Grit + 4 = 5
+		1	Unarmored	15	Grit + 0 = 1
+			Leather		14	Grit + 2 = 3
+			Chain		13	Grit + 3 = 4
+			Plate		12	Grit + 4 = 5
 			
-			2		Unarmored	15	Grit + 0 = 2
-					Leather		14	Grit + 2 = 4
-					Chain		13	Grit + 3 = 5
-					Plate		12	Grit + 4 = 6
+		2	Unarmored	15	Grit + 0 = 2
+			Leather		14	Grit + 2 = 4
+			Chain		13	Grit + 3 = 5
+			Plate		12	Grit + 4 = 6
 			
-			3		Unarmored	15	Grit + 0 = 3
-					Leather		14	Grit + 2 = 5
-					Chain		13	Grit + 3 = 6
-					Plate		12	Grit + 4 = 7
+		3	Unarmored	15	Grit + 0 = 3
+			Leather		14	Grit + 2 = 5
+			Chain		13	Grit + 3 = 6
+			Plate		12	Grit + 4 = 7
 			
-			4		Unarmored	15	Grit + 0 = 4
-					Leather		14	Grit + 2 = 6
-					Chain		13	Grit + 3 = 7
-					Plate		12	Grit + 4 = 8
+		4	Unarmored	15	Grit + 0 = 4
+			Leather		14	Grit + 2 = 6
+			Chain		13	Grit + 3 = 7
+			Plate		12	Grit + 4 = 8
 			
-			5		Unarmored	15	Grit + 0 = 5
-					Leather		14	Grit + 2 = 7
-					Chain		13	Grit + 3 = 8
-					Plate		12	Grit + 4 = 9
+		5	Unarmored	15	Grit + 0 = 5
+			Leather		14	Grit + 2 = 7
+			Chain		13	Grit + 3 = 8
+			Plate		12	Grit + 4 = 9
