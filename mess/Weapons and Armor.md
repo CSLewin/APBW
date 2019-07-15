@@ -1,6 +1,6 @@
 Weapons, Damage Types, Shields, Armor, Damage Reduction
 
-WEAPONS
+#WEAPONS
 
 By default, all weapons require one hand to wield, deal 1d8 damage, and take up one inventory slot.
 
@@ -56,13 +56,7 @@ Weapon Durability:
 	Ranged weapons immediately roll their ammo usage die when they receive a strike in addition to the end of the combat in which the weapon was fired.
 
 	Magic fighting techniques **gain** an additional damage die of their existing die size when they receive a strike. If any two or more damage dice roll matching numbers, the technique's power exceeds the character's control and immediately deals the total damage rolled to the attacker in addition to the target. All magic fighting technique strikes may be removed with an hour of uninterrupted meditation.
-
-Shields: 
-	Shields take up between 1 and 3 inventory slots. A shield provides +1 AC per inventory slot it occupies. The wielder may use a shield to absorb the brunt of any visible source of damage; when used in this way, the damage is halved before applying the wielder's damage reduction. A shield may absorb a number of strikes equal to the number of inventory slots it occupies.
-
-	3-slot shields are large enough to be used as cover; if a 3-slot shield's wielder does not move during their turn, they may hide their entire body behind the shield. The shield's wielder gains an additional +2 AC against ranged attacks until the start of their next turn.
-
-	A shield may be used as a weapon that deals bludgeoning, piercing, or slashing damage (selected at the time of purchase or creation). No weapon qualities may be applied to a shield. A wielder does not gain the shield's bonus to AC until the start of the wielder's next turn after the one in which they made an attack using the shield.
+	- Note to self: Write a method for warlocks to deliberately overcharge their power to start out with higher dicepools.
 
 Armor:
 	Armor provides damage resistance but restricts movement. If you want to avoid the touch of a blade, stay light and move quickly. For those lacking grace, endurance requires steel. Wearing heavy armor imparts a maximum amount of Grace that may be added to the wearer's AC.
@@ -80,6 +74,16 @@ Armor Durability:
 
 Damage Reduction:
 	Grit and Armor both provide points of damage reduction. Reduce all incoming sources of damage by an amount equal to a character's damage reduction. Beware--some attacks may reduce or entirely ignore a character's damage reduction. No matter how much damage reduction a character has, a successful attack always inflicts at least 1 damage.
+
+Shields: 
+	Shields take up between 1 and 3 inventory slots. A shield provides +1 AC per inventory slot it occupies. The wielder may use a shield to absorb the brunt of any visible source of damage; when used in this way, the damage is halved before applying the wielder's damage reduction. A shield may absorb a number of strikes equal to the number of inventory slots it occupies.
+
+	3-slot shields are large enough to be used as cover; if a 3-slot shield's wielder does not move during their turn, they may hide their entire body behind the shield. The shield's wielder gains an additional +2 AC against ranged attacks until the start of their next turn.
+
+	A shield may be used as a weapon that deals bludgeoning, piercing, or slashing damage (selected at the time of purchase or creation). No weapon qualities may be applied to a shield. A wielder does not gain the shield's bonus to AC until the start of the wielder's next turn after the one in which they made an attack using the shield.
+
+
+---
 
 Average Damage by Might/Grace and Weapon Damage Die:
 Stat	1d4		1d6		1d8		1d10	2d6
