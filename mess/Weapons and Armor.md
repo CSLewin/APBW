@@ -39,20 +39,22 @@ Weapon Qualities:
 	Defensive: Any round in which this weapon is wielded but not used to attack, the weapon provides +1 AC. +1 slot
 	Vicious: The weapon bears cruel hooks, barbs, or serrations. Handle with care. +d, +2 slots
 
-Critical Hits:
-	A critical hit occurs when an attacker rolls a natural 20. 
-	First, the attack automatically hits regardless of target's relevant defense. 
-	Second, the attack's damage is increased to the maximum value possible for the attack plus an additional roll of the attack's damage dice and modifiers. 
-	Third, the type of damage inflicted determines an additional effect.
+### Critical Hits:
+A critical hit occurs when an attacker rolls a natural 20. 
+- First, the attack automatically hits regardless of target's relevant defense. 
+- Second, the attack's damage is increased to the maximum value possible for the attack plus an additional roll of the attack's damage dice and modifiers.
+	- An attack that would normally do 1d8+3 damage would deal 11 + 1d8+3 damage on a critical hit.
+	- An attack normally dealing 2d6+3 damage would deal 15 + 2d6+3 damage on a critical hit.
+- Third, the type of damage inflicted determines an additional critical effect.
 
 ### Damage Types:
 
 - Bludgeoning: Ignores an amount of target's damage reduction equal to the wielder's Might score.
-	- On a critical hit using bludgeoning damage, the target is battered away from the attacker in a straight line with a distance equal to 5 feet times the attacker's Might or Grace score (attacker's choice).
+	- Critical Effect: The target is battered away from the attacker in a straight line with a distance equal to 5 feet times the attacker's Might or Grace score (attacker's choice).
 - Piercing: Add the wielder's Might or Grace score to the attack roll twice, rather than once.
-	- On a critical hit using piercing damage, the target suffers a debilitating wound that inflicts the attacker's level in damage at the end of every round until any healing is applied or the target dies. This ongoing damage ignores the target's damage reduction. Multiple instances of ongoing damage from piercing critical hits may simultaneously exist on a target and must be individually addressed.
+	- Critical Effect: The target suffers a debilitating wound that inflicts the attacker's level in damage at the end of every round until any healing is applied or the target dies. This ongoing damage ignores the target's damage reduction. Multiple instances of ongoing damage from piercing critical hits may simultaneously exist on a target and must be individually addressed.
 - Slashing: Add the wielder's Might or Grace score to the damage value twice, rather than once.
-	- On a critical hit using slashing damage, the target's armor immediately suffers two strikes in addition to any strikes normally inflicted.
+	- Critical Effect: The target's armor immediately suffers two strikes in addition to any strikes normally inflicted.
 
 Dual-Wielding: A difficult but impressive technique. When dual-wielding, the attack makes a single attack roll representing an attempt to strike with both weapons. The total inventory slots occupied by all wielded weapons are applied as a penalty to the wielder's attack roll. On a successful attack made while dual-wielding, the attacker rolls damage for both weapons but applies only the higher result.
 
