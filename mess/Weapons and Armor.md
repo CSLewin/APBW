@@ -1,6 +1,6 @@
-Weapons, Damage Types, Shields, Armor, Damage Reduction
+# Weapons, Damage Types, Shields, Armor, Damage Reduction
 
-# WEAPONS
+## WEAPONS
 
 By default, all weapons require one hand to wield, deal 1d8 damage, and take up one inventory slot.
 
@@ -57,6 +57,8 @@ Weapon Durability:
 
 	Magic fighting techniques **gain** an additional damage die of their existing die size when they receive a strike. If any two or more damage dice roll matching numbers, the technique's power exceeds the character's control and immediately deals the total damage rolled to the attacker in addition to the target. All magic fighting technique strikes may be removed with an hour of uninterrupted meditation.
 	- Note to self: Write a method for warlocks to deliberately overcharge their power to start out with higher dicepools.
+
+## Armor and Shields
 
 Armor:
 	Armor provides damage resistance but restricts movement. If you want to avoid the touch of a blade, stay light and move quickly. For those lacking grace, endurance requires steel. Wearing heavy armor imparts a maximum amount of Grace that may be added to the wearer's AC.
