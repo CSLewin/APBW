@@ -100,7 +100,7 @@ A shield may be used as a weapon that deals bludgeoning, piercing, or slashing d
 
 ---
 
-	Average Damage by Might/Grace and Weapon Damage Die:
+	Average Damage by Might/Grace/Lore and Weapon Damage Die:
 	Stat	1d4	1d6	1d8	1d10	2d6
 	0	2.5	3.5	4.5	5.5	7
 	1	3.5	4.5	5.5	6.5	8
