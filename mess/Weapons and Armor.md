@@ -101,13 +101,13 @@ A shield may be used as a weapon that deals bludgeoning, piercing, or slashing d
 ---
 
 	Average Damage by Might/Grace and Weapon Damage Die:
-	Stat	1d4		1d6		1d8		1d10	2d6
-	0		2.5		3.5		4.5		5.5		7
-	1		3.5		4.5		5.5		6.5		8
-	2		4.5		5.5		6.5		7.5		9
-	3		5.5		6.5		7.5		8.5		10
-	4		6.5		7.5		8.5		9.5		11
-	5		7.5		8.5		9.5		10.5	12
+	Stat	1d4	1d6	1d8	1d10	2d6
+	0	2.5	3.5	4.5	5.5	7
+	1	3.5	4.5	5.5	6.5	8
+	2	4.5	5.5	6.5	7.5	9
+	3	5.5	6.5	7.5	8.5	10
+	4	6.5	7.5	8.5	9.5	11
+	5	7.5	8.5	9.5	10.512
 
 
 	Grace 	Grit 	Armor Worn 	AC 	Damage Reduction
