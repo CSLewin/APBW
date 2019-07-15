@@ -1,6 +1,6 @@
 Weapons, Damage Types, Shields, Armor, Damage Reduction
 
-#WEAPONS
+# WEAPONS
 
 By default, all weapons require one hand to wield, deal 1d8 damage, and take up one inventory slot.
 
