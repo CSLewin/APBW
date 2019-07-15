@@ -46,6 +46,7 @@ Critical Hits:
 	Third, the type of damage inflicted determines an additional effect.
 
 Damage Types:
+
 - Bludgeoning: Ignores an amount of target's damage reduction equal to the wielder's Might score.
 	- On a critical hit using bludgeoning damage, the target is battered away from the attacker in a straight line with a distance equal to 5 feet times the attacker's Might or Grace score (attacker's choice).
 - Piercing: Add the wielder's Might or Grace score to the attack roll twice, rather than once.
