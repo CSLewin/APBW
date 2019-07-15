@@ -2,12 +2,22 @@
 
 ## WEAPONS
 
-By default, all weapons require one hand to wield, deal 1d8 damage, and take up one inventory slot.
+All weapons have the following qualities:
+- Size (Light, One-Handed, Two-Handed)
+- Base Damage Die (1d4, 1d6, 1d8, 1d10, 2d6)
+- Range (Whisper, Speak, Shout)
+- Damage Type (Bludgeoning, Piercing, Slashing)
+- Weight (0 or more inventory slots)
 
-Ranges for weapons and magic fall into three categories: **Whisper**, **Speak**, and **Shout**. These categories describe the maximum distance at which the weapon or spell is effective.
+By default, all weapons are one-handed, deal 1d8 damage, and take up one inventory slot.
+
+Ranges for weapons and magic fall into three categories which describe the maximum distance at which the weapon or spell is effective: 
+- **Whisper**
+- **Speak**
+- **Shout**
 
 Weapons wielded in melee combat add Might to attack and damage rolls.  
-Weapons wielded in ranged combat add Grace to attack and damage rolls. 
+Weapons wielded in ranged combat add Grace to attack and damage rolls.  
 All magical fighting techniques (melee or ranged) add Lore to attack and damage rolls.
 
 Damage chain: (minimum) 1d4 <--> 1d6 <--> 1d8 <--> 1d10 <--> 2d6 (maximum)
@@ -16,14 +26,14 @@ A weapon quality may only be applied to a weapon once.
 
 Weapon Origin:
 
-	Aneman/Pirran/Jhil: Standard
+	Aneman/Pirran/Jhil: No mechanical changes, although each country's style of manufacture and decoration is set apart by details both subtle and overt.
 	Temenite: Constructed entirely of nonmetallic materials equivalent in weight and function to steel.
 	Imperial: Durable but heavy. +1 slot; may ignore the first strike suffered by the armor/weapon each session.
 	Chernikan: Light but brittle. -1 slot; first strike suffered by the item counts as two strikes, each of which must be repaired.
 
 Weapon Qualities:
 
-	Light: This weapon is suitable for dual-wielding. -d, -1 slot
+	Light: This weapon is particularly easy to handle and quite suitable for dual-wielding. -d, -1 slot
 	Heavy: Requires two hands to wield. +d, +1 slot
 	Long: The weapon requires two hands to wield and is long enough to strike enemies up to 10 feet away. -d, +1 slot
 	Defensive: Any round in which this weapon is wielded but not used to attack, the weapon provides +1 AC. +1 slot
@@ -36,17 +46,14 @@ Critical Hits:
 	Third, the type of damage inflicted determines an additional effect.
 
 Damage Types:
+- Bludgeoning: Ignores an amount of target's damage reduction equal to the wielder's Might score.
+	- On a critical hit using bludgeoning damage, the target is battered away from the attacker in a straight line with a distance equal to 5 feet times the attacker's Might or Grace score (attacker's choice).
+- Piercing: Add the wielder's Might or Grace score to the attack roll twice, rather than once.
+	- On a critical hit using piercing damage, the target suffers a debilitating wound that inflicts the attacker's level in damage at the end of every round until any healing is applied or the target dies. This ongoing damage ignores the target's damage reduction. Multiple instances of ongoing damage from piercing critical hits may simultaneously exist on a target and must be individually addressed.
+- Slashing: Add the wielder's Might or Grace score to the damage value twice, rather than once.
+	- On a critical hit using slashing damage, the target's armor immediately suffers two strikes in addition to any strikes normally inflicted.
 
-	Bludgeoning: Ignores an amount of target's damage reduction equal to the wielder's Might score.
-		On a critical hit using bludgeoning damage, the target is battered away from the attacker in a straight line with a distance equal to 5 feet times the attacker's Might or Grace score (attacker's choice).
-	
-	Piercing: Add the wielder's Might or Grace score to the attack roll twice, rather than once.
-		On a critical hit using piercing damage, the target suffers a debilitating wound that inflicts the attacker's level in damage at the end of every round until any healing is applied or the target dies. This ongoing damage ignores the target's damage reduction. Multiple instances of ongoing damage from piercing critical hits may simultaneously exist on a target and must be individually addressed.
-	
-	Slashing: Add the wielder's Might or Grace score to the damage value twice, rather than once.
-		On a critical hit using slashing damage, the target's armor immediately suffers two strikes in addition to any strikes normally inflicted.
-
-Dual-Wielding: A difficult but impressive technique. On a successful attack made while dual-wielding, a character rolls damage for both weapons but applies only the higher result.
+Dual-Wielding: A difficult but impressive technique. When dual-wielding, the attack makes a single attack roll representing an attempt to strike with both weapons. The total inventory slots occupied by all wielded weapons are applied as a penalty to the wielder's attack roll. On a successful attack made while dual-wielding, the attacker rolls damage for both weapons but applies only the higher result.
 
 Weapon Durability:
 	On an attack roll of a natural 1, a weapon strikes awkwardly or is fired imprudently and may become damaged, waste ammunition, or become mystically misaligned.
