@@ -45,7 +45,7 @@ Critical Hits:
 	Second, the attack's damage is increased to the maximum value possible for the attack plus an additional roll of the attack's damage dice and modifiers. 
 	Third, the type of damage inflicted determines an additional effect.
 
-Damage Types:
+### Damage Types:
 
 - Bludgeoning: Ignores an amount of target's damage reduction equal to the wielder's Might score.
 	- On a critical hit using bludgeoning damage, the target is battered away from the attacker in a straight line with a distance equal to 5 feet times the attacker's Might or Grace score (attacker's choice).
