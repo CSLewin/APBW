@@ -111,35 +111,35 @@ A shield may be used as a weapon that deals bludgeoning, piercing, or slashing d
 
 
 	Grace 	Grit 	Armor Worn 	AC 	Damage Reduction
-	0		0		Unarmored	10	Grit + 0 = 0
-					Leather		10	Grit + 2 = 2
-					Chain		10	Grit + 3 = 3
-					Plate		10	Grit + 4 = 4
+	0	0		Unarmored	10	Grit + 0 = 0
+				Leather		10	Grit + 2 = 2
+				Chain		10	Grit + 3 = 3
+				Plate		10	Grit + 4 = 4
 			
-			1		Unarmored	10	Grit + 0 = 1
-					Leather		10	Grit + 2 = 3
-					Chain		10	Grit + 3 = 4
-					Plate		10	Grit + 4 = 5
+		1		Unarmored	10	Grit + 0 = 1
+				Leather		10	Grit + 2 = 3
+				Chain		10	Grit + 3 = 4
+				Plate		10	Grit + 4 = 5
 			
-			2		Unarmored	10	Grit + 0 = 2
-					Leather		10	Grit + 2 = 4
-					Chain		10	Grit + 3 = 5
-					Plate		10	Grit + 4 = 6
+		2		Unarmored	10	Grit + 0 = 2
+				Leather		10	Grit + 2 = 4
+				Chain		10	Grit + 3 = 5
+				Plate		10	Grit + 4 = 6
 			
-			3		Unarmored	10	Grit + 0 = 3
-					Leather		10	Grit + 2 = 5
-					Chain		10	Grit + 3 = 6
-					Plate		10	Grit + 4 = 7
+		3		Unarmored	10	Grit + 0 = 3
+				Leather		10	Grit + 2 = 5
+				Chain		10	Grit + 3 = 6
+				Plate		10	Grit + 4 = 7
 			
-			4		Unarmored	10	Grit + 0 = 4
-					Leather		10	Grit + 2 = 6
-					Chain		10	Grit + 3 = 7
-					Plate		10	Grit + 4 = 8
+		4		Unarmored	10	Grit + 0 = 4
+				Leather		10	Grit + 2 = 6
+				Chain		10	Grit + 3 = 7
+				Plate		10	Grit + 4 = 8
 			
-			5		Unarmored	10	Grit + 0 = 5
-					Leather		10	Grit + 2 = 7
-					Chain		10	Grit + 3 = 8
-					Plate		10	Grit + 4 = 9
+		5		Unarmored	10	Grit + 0 = 5
+				Leather		10	Grit + 2 = 7
+				Chain		10	Grit + 3 = 8
+				Plate		10	Grit + 4 = 9
 
 	Grace 	Grit 	Armor Worn 	AC 	Damage Reduction
 	1		0		Unarmored	10	Grit + 0 = 0
