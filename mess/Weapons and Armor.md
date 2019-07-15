@@ -34,11 +34,20 @@ Weapon Origin:
 
 Weapon Modifications:
 
-	Light: This weapon is particularly easy to handle and quite suitable for dual-wielding. -d, -1 slot
-	Heavy: Requires two hands to wield. +d, +1 slot
-	Long: The weapon requires two hands to wield and is long enough to strike enemies up to 10 feet away. -d, +1 slot
-	Defensive: Any round in which this weapon is wielded but not used to attack, the weapon provides +1 AC. +1 slot
-	Vicious: The weapon bears cruel hooks, barbs, or serrations. Handle with care. +d, +2 slots
+- Universal
+	- Light: This weapon is particularly easy to handle and quite suitable for dual-wielding. -d, -1 slot
+	- Heavy: Requires two hands to wield. +d, +1 slot
+	- Long: The weapon requires two hands to wield and is long enough to strike enemies up to 10 feet away. -d, +1 slot
+	- Defensive: Any round in which this weapon is wielded but not used to attack, the weapon provides +1 AC. +1 slot
+	- Vicious: The weapon bears cruel hooks, barbs, or serrations. Handle with care. +d, +2 slots
+- Melee Only
+- Ranged Only
+- Magic Only
+	- Rending
+	- Searing
+	- Freezing
+	- Corrosive
+	- Dessicating
 
 ### Critical Hits
 A critical hit occurs when an attacker rolls a natural 20. 
