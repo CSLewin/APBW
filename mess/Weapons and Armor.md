@@ -56,7 +56,7 @@ A critical hit occurs when an attacker rolls a natural 20.
 - Slashing: Add the wielder's Might or Grace score to the damage value twice, rather than once.
 	- Critical Effect: The target's armor immediately suffers two strikes in addition to any strikes normally inflicted.
 
-Dual-Wielding: A difficult but impressive technique. When dual-wielding, the attack makes a single attack roll representing an attempt to strike with both weapons. The total inventory slots occupied by all wielded weapons are applied as a penalty to the wielder's attack roll. On a successful attack made while dual-wielding, the attacker rolls damage for both weapons but applies only the higher result.
+### Dual-Wielding: A difficult but impressive technique. When dual-wielding, the attack makes a single attack roll representing an attempt to strike with both weapons. The total inventory slots occupied by all wielded weapons are applied as a penalty to the wielder's attack roll. On a successful attack made while dual-wielding, the attacker rolls damage for both weapons but applies only the higher result.
 
 Weapon Durability:
 	On an attack roll of a natural 1, a weapon strikes awkwardly or is fired imprudently and may become damaged, waste ammunition, or become mystically misaligned.
