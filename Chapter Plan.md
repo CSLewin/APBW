@@ -52,10 +52,9 @@ Chapters:
 	- Fast: Roll for stats, may trade disadvantage on one roll for advantage on another
 	- Slow: Lifepath
 - Character Class
-	- Priest
-	- Thief
+	- Magus
+	- Scoundrel
 	- Warrior
-	- Wizard
 
 4. **Equipment**
 - Weapons and Armor

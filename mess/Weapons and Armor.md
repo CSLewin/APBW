@@ -13,16 +13,13 @@ All weapons have the following qualities:
 By default, all weapons are one-handed, deal 1d8 damage, and take up one inventory slot.
 Sword, 1h, 1d8, Near, Slashing, Weight 1
 
-Attacks: 1d20 + ...
-	...Grace if weapon is Light
-	...Might or Grace if weapon is 1H
-	...Might if weapon is 2H
+
 
 Ranges for weapons and magic fall into categories describing the maximum distance at which the weapon or spell is effective: 
 - **Intimate**: Close enough to headbutt.
 - **Near**: Close enough to spit on.
-- **Far**: Raw egg-throwing distance.
-- **Distant**: Close enough to hear angry shouting.
+- **Far**: Close enough to hear angry shouting.
+- **Distant**: A couple of football fields at least.
 
 Weapons wielded in melee combat add Might to attack and damage rolls.  
 Weapons wielded in ranged combat add Grace to attack and damage rolls.  
