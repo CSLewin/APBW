@@ -3,20 +3,26 @@
 ## WEAPONS
 
 All weapons have the following qualities:
-- Size (Light, One-Handed, Two-Handed)
 - Base Damage Die (1d4, 1d6, 1d8, 1d10, 2d6)
-- Range (Whisper, Talk, Sing)
 - Damage Type (Bludgeoning, Piercing, Slashing)
+- Size (Light, One-Handed, Two-Handed)
+- Range (Near, Far, Distant)
 - Weight (0 or more inventory slots)
 - Modifications (See Below)
 
 By default, all weapons are one-handed, deal 1d8 damage, and take up one inventory slot.
 Sword, 1h, 1d8, Near, Slashing, Weight 1
 
+Attacks: 1d20 + ...
+	...Grace if weapon is Light
+	...Might or Grace if weapon is 1H
+	...Might if weapon is 2H
+
 Ranges for weapons and magic fall into categories describing the maximum distance at which the weapon or spell is effective: 
+- **Intimate**: Close enough to headbutt.
 - **Near**: Close enough to spit on.
-- **Far**: 
-- **Distant**: 
+- **Far**: Raw egg-throwing distance.
+- **Distant**: Close enough to hear angry shouting.
 
 Weapons wielded in melee combat add Might to attack and damage rolls.  
 Weapons wielded in ranged combat add Grace to attack and damage rolls.  
@@ -26,7 +32,7 @@ Damage chain: (minimum) 1d4 <--> 1d6 <--> 1d8 <--> 1d10 <--> 2d6 (maximum)
 
 A weapon quality may only be applied to a weapon once.
 
-Weapon Origin:
+Equipment Origin:
 - Aneman/Pirran/Jhil: No mechanical changes, although each country's style of manufacture and decoration is set apart by details both subtle and overt.
 - Temenite: Constructed entirely of nonmetallic materials equivalent in weight and function to steel.
 - Imperial: Durable but heavy. +1 slot; may ignore the first strike suffered by the armor/weapon each session.
@@ -39,6 +45,7 @@ Weapon Modifications:
 	- Defensive: Any round in which this weapon is wielded but not used to attack, the weapon provides +1 AC. -d, +1 slot
 	- Heavy: Requires two hands to wield. +d, +1 slot
 	- Vicious: The weapon bears cruel hooks, barbs, or serrations. Handle with care. +d, +2 slots
+	- Versatile: The weapon can deal an additional type of damage, but only one per attack. +1 slot per additional damage type.
 - Melee Only (Mundane or Magical)
 	- asdf
 - Ranged Only (Mundane or Magical)

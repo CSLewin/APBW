@@ -58,10 +58,15 @@ Chapters:
 	- Wizard
 
 4. **Equipment**
-- Armor and Weapons
+- Weapons and Armor
 - Tools, Gear, and Animals
 - Followers (https://diaghilevsdice.blogspot.com/2019/05/simple-followers.html)
 
+5. **Combat**
+- Attacks: 1d20 + ...
+	- Grace if weapon is Light
+	- Might or Grace if weapon is 1H
+	- Might if weapon is 2H
 
 # SETTING
 
