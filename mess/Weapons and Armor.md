@@ -5,17 +5,18 @@
 All weapons have the following qualities:
 - Size (Light, One-Handed, Two-Handed)
 - Base Damage Die (1d4, 1d6, 1d8, 1d10, 2d6)
-- Range (Whisper, Speak, Shout)
+- Range (Whisper, Talk, Sing)
 - Damage Type (Bludgeoning, Piercing, Slashing)
 - Weight (0 or more inventory slots)
 - Modifications (See Below)
 
 By default, all weapons are one-handed, deal 1d8 damage, and take up one inventory slot.
+Sword, 1h, 1d8, Near, Slashing, Weight 1
 
-Ranges for weapons and magic fall into three categories which describe the maximum distance at which the weapon or spell is effective: 
-- **Whisper**
-- **Speak**
-- **Shout**
+Ranges for weapons and magic fall into categories describing the maximum distance at which the weapon or spell is effective: 
+- **Near**: Close enough to spit on.
+- **Far**: 
+- **Distant**: 
 
 Weapons wielded in melee combat add Might to attack and damage rolls.  
 Weapons wielded in ranged combat add Grace to attack and damage rolls.  
@@ -26,22 +27,22 @@ Damage chain: (minimum) 1d4 <--> 1d6 <--> 1d8 <--> 1d10 <--> 2d6 (maximum)
 A weapon quality may only be applied to a weapon once.
 
 Weapon Origin:
-
-	Aneman/Pirran/Jhil: No mechanical changes, although each country's style of manufacture and decoration is set apart by details both subtle and overt.
-	Temenite: Constructed entirely of nonmetallic materials equivalent in weight and function to steel.
-	Imperial: Durable but heavy. +1 slot; may ignore the first strike suffered by the armor/weapon each session.
-	Chernikan: Light but brittle. -1 slot; first strike suffered by the item counts as two strikes, each of which must be repaired.
+- Aneman/Pirran/Jhil: No mechanical changes, although each country's style of manufacture and decoration is set apart by details both subtle and overt.
+- Temenite: Constructed entirely of nonmetallic materials equivalent in weight and function to steel.
+- Imperial: Durable but heavy. +1 slot; may ignore the first strike suffered by the armor/weapon each session.
+- Chernikan: Light but brittle. -1 slot; first strike suffered by the item counts as two strikes, each of which must be repaired.
 
 Weapon Modifications:
 
 - Universal
 	- Light: This weapon is particularly easy to handle and quite suitable for dual-wielding. -d, -1 slot
+	- Defensive: Any round in which this weapon is wielded but not used to attack, the weapon provides +1 AC. -d, +1 slot
 	- Heavy: Requires two hands to wield. +d, +1 slot
-	- Long: The weapon requires two hands to wield and is long enough to strike enemies up to 10 feet away. -d, +1 slot
-	- Defensive: Any round in which this weapon is wielded but not used to attack, the weapon provides +1 AC. +1 slot
 	- Vicious: The weapon bears cruel hooks, barbs, or serrations. Handle with care. +d, +2 slots
-- Melee Only
-- Ranged Only
+- Melee Only (Mundane or Magical)
+	- asdf
+- Ranged Only (Mundane or Magical)
+	- asdf 
 - Magic Only
 	- Rending
 	- Searing
@@ -61,7 +62,7 @@ A critical hit occurs when an attacker rolls a natural 20.
 - Bludgeoning: Ignores an amount of target's damage reduction equal to the wielder's Might score.
 	- Critical Effect: The target is battered away from the attacker in a straight line with a distance equal to 5 feet times the attacker's Might or Grace score (attacker's choice).
 - Piercing: Add the wielder's Might or Grace score to the attack roll twice, rather than once.
-	- Critical Effect: The target suffers a debilitating wound that inflicts the attacker's level in damage at the end of every round until any healing is applied or the target dies. This ongoing damage ignores the target's damage reduction. Multiple instances of ongoing damage from piercing critical hits may simultaneously exist on a target and must be individually addressed.
+	- Critical Effect: The target suffers a debilitating wound that inflicts the attacker's level in damage at the end of every round until any healing is applied or the target dies. This ongoing damage ignores the target's damage reduction. Multiple separate instances of ongoing damage from piercing critical hits must be individually addressed.
 - Slashing: Add the wielder's Might or Grace score to the damage value twice, rather than once.
 	- Critical Effect: The target's armor immediately suffers two strikes in addition to any strikes normally inflicted.
 
