@@ -71,7 +71,6 @@ Skills from 5E D&D (and their associated stat in the homebrew):
 	Stealth - Grace
 	Survival - Lore
 
-
 Bonuses to Lore are always specific to a category, never Lore in general.
 
 Rely on heuristics to answer questions, rather than specifics: 
@@ -140,7 +139,7 @@ Acquire a notable treasure:		|●●●●●|●●●●●|●●●●●|�
 Monsters and NPC stats:
 
 Level (Convert from HD)
-Health (5 per level. If they're very tough, 6 per level. If they're very weak, 4 per level.)
+Health (5 per level. If they're very tough, 7 per level. If they're very weak, 3 per level.)
 Armor [weakness]. Value is Defense score. Reduce all incoming damage by this value unless source incorporates the [weakness].
 Attack, Defense, Soul scores. Same scale as PC stats. Use as modifiers for rolls and score + 10 for defenses.
 	Use Attack for anything offensive. Use Defense for anything defensive. Use Soul for anything mental or magical.
@@ -149,6 +148,20 @@ Special:
 
 Ogre: Level 5, Health 30, Armor 3 [bleeding]
 Attack 4, Defense 3, Soul -2.
+
+**OR**
+
+Name: 
+
+Level
+Might
+Grit
+Grace
+Charm
+Lore
+Fate
+
+https://docs.google.com/spreadsheets/d/1rTg92r9kPtzQ8gnHS4M5MveO4XxUu66JnE42Y6JJVCE/edit#gid=0
 
 ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
 
@@ -189,13 +202,27 @@ Written for a 5e conversion, but touching on the Wonder and Wickedness model:
 	yeah I'd totally play this if it also got some decent but theme-limited non-combat skills. Maybe Ritual Casting for free and a handful of cantrips (but no cantrip that does damage)
 
 ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
-Classes (?), Attack, Defense, Damage
+### Combat
+
+Initiative: 
+At the start of each round, each PC rolls 2d6 + Grace.
+- On a 7+, that PC goes before the enemy. 
+- On a 6-, they go after the enemy.
+
+Note: This doesn't account for faster or slower enemies, but it does keep it simple.
+
+Combat rounds play out in four phases:
+1. PCs faster than the enemy
+2. The enemy
+3. PCs slower than the enemy
+4. End of the Round
+
+Players may freely determine among themselves the order in which their characters act within a phase.
+
+
 
 Attacks:
-	Melee attacks: 1d20 + Might
-	Ranged attacks: 
-
-	An attack roll is successful if it is equal to or greater than the target's Defense.
+	Attacks: 1d20 + Might, Grace, or Lore, depending. An attack roll is successful if it is equal to or greater than the target's Defense.
 
 Damage:
 	Everyone makes attack rolls the same way. However, your style affects how you determine the results:
