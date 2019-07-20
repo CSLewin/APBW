@@ -1,7 +1,6 @@
-# How am I going to write, test, promote, and release this RPG?
+# How to write, test, promote, and release the APBW RPG?
 
 1. **Establish Fictional Pillars**
-- Test line please delete
 	- _SIC TRANSIT ARCANA | FERRUM AETERNUM_
 	- Vanished empire, transitory age. The center cannot hold!
 	- Humans only as PCs. Servitor races (Elves, Dwarves, Soldiers) have truly inhuman outlooks (partially because they're immortal).
