@@ -13,8 +13,6 @@ All weapons have the following qualities:
 By default, all weapons are one-handed, deal 1d8 damage, and take up one inventory slot.
 Sword, 1h, 1d8, Near, Slashing, Weight 1
 
-
-
 Ranges for weapons and magic fall into categories describing the maximum distance at which the weapon or spell is effective: 
 - **Intimate**: Close enough to headbutt.
 - **Near**: Close enough to spit on.
@@ -86,7 +84,7 @@ Magic fighting techniques **gain** an additional damage die of their existing di
 ## Armor and Shields
 
 Armor:
-	Armor provides damage resistance but restricts movement. If you want to avoid the touch of a blade, stay light and move quickly. For those lacking grace, endurance requires steel. Wearing heavy armor imparts a maximum amount of Grace that may be added to the wearer's AC.
+	Armor provides damage resistance but restricts movement. If you want to avoid the touch of a blade, stay light and move quickly. For those lacking grace, endurance requires steel. Wearing heavy armor restricts the maximum amount of Grace that may be added to the wearer's AC. All armor purchased comes with a helmet.
 
 	Armor		Slots	Damage Reduction	Maximum Grace Applied to AC
 	Unarmored	0	0			No Maximum

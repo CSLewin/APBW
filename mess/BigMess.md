@@ -152,14 +152,14 @@ Attack 4, Defense 3, Soul -2.
 **OR**
 
 Name: 
-
 Level
 Might
 Grit
 Grace
 Charm
 Lore
-Fate
+
+Monsters and NPCs do not have Fate scores.
 
 https://docs.google.com/spreadsheets/d/1rTg92r9kPtzQ8gnHS4M5MveO4XxUu66JnE42Y6JJVCE/edit#gid=0
 
