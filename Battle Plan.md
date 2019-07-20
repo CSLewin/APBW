@@ -7,8 +7,9 @@
 		- Humans-only means lower cognitive load for players.
 	- Heaven is real, but faith remains. God(s) is (are) distant, but the aerial spirits are near. Atheists exist.
 	- Global politics as The Great Game (WWI-style). Smoldering war, privateerism, proxy forces, spies.
-	- A society of heroes. https://en.wikipedia.org/wiki/Wuxia#Jianghu Fame and the Jianghu concept. *The world needs heroes.*
-		- **Somebody has to do it and nobody else will. --The Comet King"**
+	- A society of heroes. https://en.wikipedia.org/wiki/Wuxia#Jianghu 
+		- Fame and the Jianghu concept. *The world needs heroes.*
+		- **"Somebody has to do it and nobody else will." --UNSONG, The Comet King**
 
 2. **Establish Design Pillars.**
 	- What is this game? What is it **not**?
