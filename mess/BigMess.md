@@ -22,7 +22,6 @@ Intelligence	Intelligence	Thought		Lore
 Wisdom			Personality		Aura		Charm
 Charisma		Luck			Charisma	Fate
 
-
 APBW ????? (PCs have these stats; monsters do not.)
 	Might	- How much force can you muster?
 	Grace	- How deft are you?
