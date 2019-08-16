@@ -29,6 +29,7 @@ When you break down an object to make hacksilver out of it, reduce the item slot
 - *First, the idol is reduced from a 5 slot object to a 4 slot object worth Ud10 and produces 1 item slot of hacksilver worth Ud10.*
 - *Continuing to work, the idol is again reduced from a 4 slot object to a 3 slot object worth Ud6 and 1 slot of Hacksilver worth Ud6.*
 - *The robbers continue to scrape the idol for value, finally reducing it to a 2 slot object worth only Loose Change and 1 item slot of Hacksilver worth only Loose Change.*
+
 *The tomb robbers gather up two item slots worth of valuable hacksilver (worth Ud10 and Ud6) and leave behind the ruined remnants of the idol and the final leavings worth only Loose Change but taking up 1 entire item slot.*
 
 ## Buying Things
