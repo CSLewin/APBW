@@ -3,7 +3,7 @@
 Costs (Use Highest Applicable Descriptor)
 
 | Usage Die | Descriptors |
-| --- | --- |
+| :---: | :---: |
 | d4 | cheap, common, bad | 
 | d6 | mundane, functional | 
 | d8 | fine, unusual | 
