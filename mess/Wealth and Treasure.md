@@ -60,11 +60,13 @@ Costs are listed by usage die and descriptor. Find the highest applicable descri
 ## Investing
 *Wealth breeds wealth.*
 
-In the greatest cities of civilization, characters may invest and store their treasures in great banks and temples. This is an inefficient and often exploitative process, but more rogues have retired, fat and laughing, on the power of compound interest than have claimed petty thrones from stolen diamonds. If your character is interested in retiring to a life of luxury, this is the easiest way to do it.
+In the greatest cities of civilization, characters may invest and store their treasures in great banks and temples. This is an inefficient and often exploitative process, but more rogues have retired, fat and laughing, on the power of compound interest than have claimed petty thrones bought with stolen diamonds. If your character is interested in retiring to a life of luxury, this is the *safest* way to do it...although perhaps not one that will produce the best stories.
 
 While in a major city and retaining access to polite society, a character may combine treasure usage dice to produce larger dice. Although any number of dice may be converted in a single go, each such investment requires a week of negotiations, bribes, fees, and taxes; mathematically-talented players may be satisfied to know that this is the pit which absorbs the wealth that vanishes at each step of the process.
 
 Petty transactions are beneath the notice of financial institutions; four Loose Change may be combined in one day to produce a small parcel of petty treasure worth Ud4.
+
+Note that this wealth is now only accessible in the city in which it was converted; withdrawing it will require as many weeks as there are usage dice stored in the institution, and each usage die worth of wealth will take up 1 item slot in the form of trade bars of precious metals--large concentrations of which provide prime targets for desperate men and women, should their existence become commonly known...
 
 | Combine this... | ...to produce this |
 | :---: | :---: |
@@ -74,9 +76,4 @@ Petty transactions are beneath the notice of financial institutions; four Loose 
 | 2x Ud10 | 1x Ud12 | 
 | 2x Ud12 | 1x Ud20 | 
 
-
-
-
-
-
-
+*Example: Mercurio the Thief would like to find a safer place to stash his sacks of orcichalcum orioles *
