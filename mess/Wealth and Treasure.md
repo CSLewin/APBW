@@ -1,6 +1,7 @@
 # Wealth and Treasure
 
 Costs (Use Highest Applicable Descriptor)
+
 | Usage Die | Descriptors |
 | --- | --- |
 | d4 | cheap, common, bad | 
