@@ -1,0 +1,13 @@
+graph g{
+rank = same;  Berserker -- Mercenary -- Wanderer -- Warlock -- Sage
+  Warlord -- {Berserker -- Mercenary}; Fury -- Berserker
+  Thief -- {Mercenary -- Wanderer}
+  Cultist -- {Wanderer -- Warlock}
+  Scholar -- {Warlock -- Sage}; Sorcerer -- Sage
+    Assassin -- {Warlord -- Thief}
+    Vessel -- {Thief -- Cultist}
+    Oracle -- {Cultist -- Scholar}
+      Avatar -- {Assassin -- Vessel}
+      Aspirant -- {Vessel -- Oracle}
+        Immortal -- {Avatar -- Aspirant}
+}
