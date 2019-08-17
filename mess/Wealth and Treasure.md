@@ -25,7 +25,7 @@ When you break down an object to make hacksilver out of it, reduce the item slot
 
 **Summary:** Each hacksilver step = Base item slots -1, 1 item slot of hacksilver produced, value of both decreases two steps from starting value.
 
-*Example: A group of tomb robbers finds a large idol plated in pure gold, with cut sapphires set as the idol's eyes. The whole idol is a 5 slot object worth Ud20. The group can't get the whole thing out of the tomb and opts to turn it into hacksilver.*
+*Example: A group of tomb robbers finds a large idol plated in purest gold, with cut sapphires set as the idol's eyes. The idol is massive, a 5 slot object worth Ud20. The group can't get the whole thing out of the tomb and opts to turn it into hacksilver.*
 - *First, the idol is reduced from a 5 slot object to a 4 slot object worth Ud10 and produces 1 item slot of hacksilver worth Ud10.*
 - *Continuing to work, the idol is again reduced from a 4 slot object to a 3 slot object worth Ud6 and 1 slot of hacksilver worth Ud6.*
 - *The robbers continue to scrape the idol for value, finally reducing it to a 2 slot object worth only Loose Change and 1 item slot of hacksilver worth only Loose Change.*
@@ -78,7 +78,7 @@ Petty transactions are beneath the notice of financial institutions; four Loose 
 
 *Example: Mercurio the Thief would like to find a safer place than beneath his mattress to stash his sacks of orcichalcum orioles, and so approaches the bank of Findlay and Golemshead to sequester his wealth. Since he's not a notorious criminal, the bank agrees to do business with him. All told, Mercurio's treasures constitute 8x Ud6 and 4x Ud8 treasures. After a week of negotiations and the paying of taxes, Mercurio's treasure is consolidated and stored. The individual items making up his hoard vanish into the bank, which converts them: 8x Ud6 becomes 4x Ud8, which are added to the existing 4x Ud8 for a total of 8x Ud8. This converts: 4x Ud10 -> 2x Ud10 -> 1x Ud12.*
 
-*Some months later, receives advance notice that fleeing the city would be a wise move. He opts to withdraw his stored money in small, easily-used trade bars. Mercurio would like to convert his entire account into Ud6 treasure dice. The bank converts his funds: 1x Ud12 -> 2x Ud10 -> 4x Ud8 -> 8x Ud6. Eight days later, Mercurio boards a ship bound for foreign shores bearing a suspiciously-heavy backpack, trailing the scent of fear-sweat and silver...*
+*Some months later, Mercurio is advised to quickly flee the city. Mercurio would like to withdraw his entire account into Ud6 treasure dice (in this case, small easily-spent trade bars). The bank converts his funds: 1x Ud12 -> 2x Ud10 -> 4x Ud8 -> 8x Ud6. Eight days later, Mercurio boards a ship bound for foreign shores bearing a suspiciously heavy backpack, trailing the scent of fear-sweat and silver...*
 
 
 
