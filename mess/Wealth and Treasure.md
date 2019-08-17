@@ -57,11 +57,13 @@ Costs are listed by usage die and descriptor. Find the highest applicable descri
 - Seller upset with buyer: -1
 - Seller pleased with buyer: +1
 
-## Investing
+## Storing and Investing
 *Wealth breeds wealth.*
 
 In the greatest cities of civilization, characters may invest and store their treasures in great banks and temples. This is an inefficient and often exploitative process, but more rogues have retired fat and laughing on the power of compound interest than have claimed petty thrones bought with stolen diamonds. If your character is interested in retiring to a life of luxury, this is the *safest* way to do it...athough not without its own complications.
 
+
+### Storing Wealth
 While in a major city and retaining access to polite society, a character may combine treasure usage dice to produce larger dice. Although any number of dice may be converted in a single go, each such investment requires a week of negotiations, bribes, fees, and taxes; mathematically-talented players may be satisfied to know that this is the pit which absorbs the wealth that vanishes at each step of the process.
 
 Note that this wealth is now only accessible in the city in which it was converted; withdrawing it will require as many days as the usage dice stored in the institution, and each usage die worth of wealth will take up 1 item slot in the form of trade bars of precious metals--large concentrations of which provide prime targets for desperate men and women, should their existence become commonly known.
@@ -80,7 +82,11 @@ Petty transactions are beneath the notice of financial institutions; four Loose 
 
 *Some months later, Mercurio is advised to quickly flee the city. Mercurio would like to withdraw his entire account into Ud6 treasure dice (in this case, small easily-spent trade bars). The bank converts his funds: 1x Ud12 -> 2x Ud10 -> 4x Ud8 -> 8x Ud6. Eight days later, Mercurio boards a ship bound for foreign shores bearing a suspiciously heavy backpack, trailing the scent of fear-sweat and silver...*
 
+### Investing Wealth
+Banks and temples are greatly pleased by reliable clients. Wealth usage dice can be **invested** into a bank. Permanently invested wealth cannot be withdrawn or converted to larger or smaller dice. When a wealth usage die has been invested in a bank for a full year, it decreases one step in size and becomes **durable wealth**. Durable wealth cannot be withdrawn and can only be spent in the city in which it was invested through letters of bank credit. In exchange for these limits, durable wealth usage dice cannot decrease in size when used regardless of the roll result, and are only permanently lost if a result of 1 or lower is rolled on the die twice in a row.
 
+#### My character died, what happened to all of my investments?
+The bank took it. It's theirs now. Your heirs are sad that you didn't buy land.
 
 
 
