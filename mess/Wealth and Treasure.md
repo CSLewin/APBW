@@ -60,13 +60,13 @@ Costs are listed by usage die and descriptor. Find the highest applicable descri
 ## Investing
 *Wealth breeds wealth.*
 
-In the greatest cities of civilization, characters may invest and store their treasures in great banks and temples. This is an inefficient and often exploitative process, but more rogues have retired, fat and laughing, on the power of compound interest than have claimed petty thrones bought with stolen diamonds. If your character is interested in retiring to a life of luxury, this is the *safest* way to do it...although perhaps not one that will produce the best stories.
+In the greatest cities of civilization, characters may invest and store their treasures in great banks and temples. This is an inefficient and often exploitative process, but more rogues have retired fat and laughing on the power of compound interest than have claimed petty thrones bought with stolen diamonds. If your character is interested in retiring to a life of luxury, this is the *safest* way to do it...athough not without its own complications.
 
 While in a major city and retaining access to polite society, a character may combine treasure usage dice to produce larger dice. Although any number of dice may be converted in a single go, each such investment requires a week of negotiations, bribes, fees, and taxes; mathematically-talented players may be satisfied to know that this is the pit which absorbs the wealth that vanishes at each step of the process.
 
-Petty transactions are beneath the notice of financial institutions; four Loose Change may be combined in one day to produce a small parcel of petty treasure worth Ud4.
+Note that this wealth is now only accessible in the city in which it was converted; withdrawing it will require as many days as the usage dice stored in the institution, and each usage die worth of wealth will take up 1 item slot in the form of trade bars of precious metals--large concentrations of which provide prime targets for desperate men and women, should their existence become commonly known.
 
-Note that this wealth is now only accessible in the city in which it was converted; withdrawing it will require as many weeks as there are usage dice stored in the institution, and each usage die worth of wealth will take up 1 item slot in the form of trade bars of precious metals--large concentrations of which provide prime targets for desperate men and women, should their existence become commonly known...
+Petty transactions are beneath the notice of financial institutions; four Loose Change may be combined in one day to produce a small parcel of petty trinkets worth Ud4.
 
 | Combine this... | ...to produce this |
 | :---: | :---: |
@@ -76,4 +76,11 @@ Note that this wealth is now only accessible in the city in which it was convert
 | 2x Ud10 | 1x Ud12 | 
 | 2x Ud12 | 1x Ud20 | 
 
-*Example: Mercurio the Thief would like to find a safer place to stash his sacks of orcichalcum orioles *
+*Example: Mercurio the Thief would like to find a safer place than beneath his mattress to stash his sacks of orcichalcum orioles, and so approaches the bank of Findlay and Golemshead to sequester his wealth. Since he's not a notorious criminal, the bank agrees to do business with him. All told, Mercurio's treasures constitute 8x Ud6 and 4x Ud8 treasures. After a week of negotiations and the paying of taxes, Mercurio's treasure is consolidated and stored. The individual items making up his hoard vanish into the bank, which converts them: 8x Ud6 becomes 4x Ud8, which are added to the existing 4x Ud8 for a total of 8x Ud8. This converts: 4x Ud10 -> 2x Ud10 -> 1x Ud12.*
+
+*Some months later, receives advance notice that fleeing the city would be a wise move. He opts to withdraw his stored money in small, easily-used trade bars. Mercurio would like to convert his entire account into Ud6 treasure dice. The bank converts his funds: 1x Ud12 -> 2x Ud10 -> 4x Ud8 -> 8x Ud6. Eight days later, Mercurio boards a ship bound for foreign shores bearing a suspiciously-heavy backpack, trailing the scent of fear-sweat and silver...*
+
+
+
+
+
