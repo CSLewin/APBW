@@ -85,8 +85,8 @@ Petty transactions are beneath the notice of financial institutions; four Loose 
 ### Investing Wealth
 Banks and temples are greatly pleased by reliable clients. Wealth usage dice can be **invested** into a bank. Permanently invested wealth cannot be withdrawn or converted to larger or smaller dice. When a wealth usage die has been invested in a bank for a full year, it decreases one step in size and becomes **durable wealth**. Durable wealth cannot be withdrawn and can only be spent in the city in which it was invested through letters of bank credit. In exchange for these limits, durable wealth usage dice cannot decrease in size when used regardless of the roll result, and are only permanently lost if a result of 1 or lower is rolled on the die twice in a row.
 
-#### My character died, what happened to all of my investments?
-The bank took it. It's theirs now. Your heirs are sad that you didn't buy land.
+#### My character died, what happened to all of my money and investments?
+The bank took them. The money is theirs now. Your heirs are sad that you didn't buy land.
 
 
 
