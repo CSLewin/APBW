@@ -68,7 +68,7 @@ While in a major city and retaining access to polite society, a character may co
 
 Note that this wealth is now only accessible in the city in which it was converted; withdrawing it will require as many days as the usage dice stored in the institution, and each usage die worth of wealth will take up 1 item slot in the form of trade bars of precious metals--large concentrations of which provide prime targets for desperate men and women, should their existence become commonly known.
 
-Petty transactions are beneath the notice of financial institutions; four Loose Change may be combined in one day to produce a small parcel of petty trinkets worth Ud4.
+Basic transactions are beneath the notice of financial institutions; four Loose Change may be combined in one day to produce a small parcel of trinkets worth Ud4.
 
 | Combine this... | ...to produce this |
 | :---: | :---: |
@@ -78,9 +78,9 @@ Petty transactions are beneath the notice of financial institutions; four Loose 
 | 2x Ud10 | 1x Ud12 | 
 | 2x Ud12 | 1x Ud20 | 
 
-*Example: Mercurio the Thief would like to find a safer place than beneath his mattress to stash his sacks of orcichalcum orioles, and so approaches the bank of Findlay and Golemshead to sequester his wealth. Since he's not a notorious criminal, the bank agrees to do business with him. All told, Mercurio's treasures constitute 8x Ud6 and 4x Ud8 treasures. After a week of negotiations and the paying of taxes, Mercurio's treasure is consolidated and stored. The individual items making up his hoard vanish into the bank, which converts them: 8x Ud6 becomes 4x Ud8, which are added to the existing 4x Ud8 for a total of 8x Ud8. This converts: 4x Ud10 -> 2x Ud10 -> 1x Ud12.*
+*Example: Mercurio the Thief would like to find a safer place than beneath his mattress to stash his sacks of orcichalcum orioles, and so approaches the bank of Findlay and Golemshead to sequester his wealth. Since he's not a notorious criminal, the bank agrees to do business with him. All told, Mercurio's treasures constitute 8x Ud6 and 4x Ud8 treasures. After a week of negotiations and the paying of taxes, Mercurio's treasure is consolidated and stored. The individual items making up his hoard vanish into the bank, which converts them: 8x Ud6 becomes 4x Ud8, which are added to the existing 4x Ud8 for a total of 8x Ud8. 8x UD8 becomes 4x Ud10, then 2x Ud12, and finally to 1x Ud20--a princely sum.*
 
-*Some months later, Mercurio is advised to quickly flee the city. Mercurio would like to withdraw his entire account into Ud6 treasure dice (in this case, small easily-spent trade bars). The bank converts his funds: 1x Ud12 -> 2x Ud10 -> 4x Ud8 -> 8x Ud6. Eight days later, Mercurio boards a ship bound for foreign shores bearing a suspiciously heavy backpack, trailing the scent of fear-sweat and silver...*
+*Some months later, Mercurio is advised to quickly flee the city. Mercurio would like to withdraw his entire account into a number of Ud6 treasure dice (in this case, small easily-spent trade bars). The bank converts his funds: 1x Ud20 -> 2x Ud12 -> 4x Ud10 -> 8x Ud8 -> 16x Ud6. Eight days later, Mercurio boards a ship bound for foreign shores grunting under the weight of a suspiciously heavy backpack, trailing the reek of fear-sweat and silver...*
 
 ### Investing Wealth
 Banks and temples are greatly pleased by reliable clients. Wealth usage dice can be **invested** into a bank. Permanently invested wealth cannot be withdrawn or converted to larger or smaller dice. When a wealth usage die has been invested in a bank for a full year, it decreases one step in size and becomes **durable wealth**. 
