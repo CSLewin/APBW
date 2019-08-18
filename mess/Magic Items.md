@@ -19,16 +19,18 @@ Greater enchantments are a more serious matter. The greater the enchantment, the
 **Greater enchantments** require a permanent means of binding an enchantment to an object. Deeply engraved runes filled with mystic metal, a flawless gem bound to a pommel, an reliquiary integrated into a haft, a lesser spirit bound by an etched diagram, etc. There should be no mistaking the difference between objects intended for lesser and greater enchantments.
 
 ~ ~ ~
-Powerful enchantments can shatter the objects holding them. A shattered relic releases its stored magic in dangerous and unpredictable ways. To prevent this, objects intended for greater enchantments can be tempered and maintained to improve their durability. An object with a greater enchantment has an Instability Die of a type shown on the table below. At the end of a combat or scene in which the enchanted object was used, roll the object's Instability Die; if it shows a 1, the enchanted object breaks and [Insert Very Bad Things Here].
 
-| Enchantment Die | Instability Die |
-| :---: | :---: |
-| Ud4 | Ud20 |
-| Ud6 | Ud12 |
-| Ud8 | Ud10 |
-| Ud10 | Ud8 |
-| Ud12 | Ud6 |
-| Ud20 | Ud4 |
+Powerful enchantments can shatter the objects holding them. A shattered relic releases its stored magic in dangerous and unpredictable ways. To prevent this, objects intended for greater enchantments can be tempered and maintained to improve their durability. An object with a greater enchantment has an Instability Die of a type shown on the table below. At the end of a combat or scene in which the enchanted object was used, roll the object's Instability Die; if it shows a 1, the enchanted object breaks and **[Insert Very Bad Things Here]**.
+
+| Tier | Enchantment Die | Instability Die |
+| :---: | :---: | :---: |
+| 1 | -- | | None |
+| 2 | Ud4 | Ud20 |
+| 3 | Ud6 | Ud12 |
+| 4 | Ud8 | Ud10 |
+| 5 | Ud10 | Ud8 |
+| 6 | Ud12 | Ud6 |
+| 7 | Ud20 | Ud4 |
 
 An enchanted object's Instability Die can be reduced
 
