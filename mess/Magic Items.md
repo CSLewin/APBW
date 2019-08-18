@@ -22,7 +22,7 @@ Greater enchantments are a more serious matter. The greater the enchantment, the
 
 Powerful enchantments can shatter the relics holding them. A shattered relic releases its stored magic in dangerous and unpredictable ways. To prevent this, relics intended for greater enchantments can be tempered and maintained to improve their durability. 
 
-A relic with a greater enchantment has an Instability Die of a type shown on the table below. At the end of a combat or scene in which the relic was used, roll the relic's Instability Die; if it shows a 1, the relic breaks, the power contained within it is floods out, and **[Insert Very Bad Things Here]**.
+A relic with a greater enchantment has an Instability Die of a type shown on the table below. At the end of a combat or scene in which the relic was used, roll the relic's Instability Die; if it shows a 1, the relic **immediately** breaks, the power contained within it floods out, and **[Insert Very Bad Things Here]**.
 
 | Tier | Enchantment Die | Instability Die |
 | :---: | :---: | :---: |
