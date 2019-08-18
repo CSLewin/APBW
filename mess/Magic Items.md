@@ -24,7 +24,7 @@ Powerful enchantments can shatter the objects holding them. A shattered relic re
 
 | Tier | Enchantment Die | Instability Die |
 | :---: | :---: | :---: |
-| 1 | -- | | None |
+| 1 | -- | None |
 | 2 | Ud4 | Ud20 |
 | 3 | Ud6 | Ud12 |
 | 4 | Ud8 | Ud10 |
