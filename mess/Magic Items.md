@@ -34,7 +34,7 @@ A relic with a greater enchantment has an Instability Die of a type shown on the
 | 5 | Ud12 | Ud6 |
 | 6 | Ud20 | Ud4 |
 
-A relic's Instability Die can be reduced by 1 tier for each of the elements listed below involved in that object's creation and use:
+A relic's Instability Die can be improved by 1 tier (Ud4 -> Ud6 -> Ud8 -> Ud10 -> Ud12 -> Ud20 -> None) for each of the elements listed below involved in that object's creation and use:
 - Origin: Are the raw materials exemplary?
 	- Examples: 
 - Creation Process: Was the process of creating the object extraordinary?
