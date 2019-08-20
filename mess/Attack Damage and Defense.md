@@ -21,7 +21,7 @@ If your character has taken their maximum number of hits and receives any additi
 ### DIRE WOUNDS
 | Total Roll | Blunt | Stabbing | Cutting | Searing | Poison | Corroding | Rending | 
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Examples: | Clubs, Sounds | Daggers, Arrows | Swords, Axes | Fire, Lightning | Venom, Toxins | Acid, Necrosis | Teeth, Claws |
+| *Examples:* | *Clubs, Sounds* | *Daggers, Arrows* | *Swords, Axes* | *Fire, Lightning* | *Venom, Toxins* | *Acid, Necrosis* | *Teeth, Claws* |
 | 1-5  | Very Sad | f | f | f | f | f | f |
 | 6-10 | Knocked Out | f | f | f | f | f | f |
 | 11-15 | Disfigured | f | f | f | f | f | f |
