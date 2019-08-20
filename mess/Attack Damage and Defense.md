@@ -18,7 +18,7 @@ Your character can endure a maximum number of hits equal to **2 + 1/2 their leve
 
 If your character has taken their maximum number of hits and receives any additional hits, they receive one **DIRE WOUND** per hit received beyond their maximum. When this happens, immediately roll 1d6 per DIRE WOUND, total the results, and apply the matching number and source of damage from the DIRE WOUNDS Chart to your character.
 
-| DIRE WOUNDS |
+### DIRE WOUNDS
 | Total Roll | Blunt/Blasting | Piercing/Stabbing | Slashing/Cutting | Searing/Burning | Poison/Toxin | Rotting/Corroding |
 | Examples: | f | f | f | f | f | f | 
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
