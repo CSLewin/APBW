@@ -19,15 +19,15 @@ Your character can endure a maximum number of hits equal to **2 + 1/2 their leve
 If your character has taken their maximum number of hits and receives any additional hits, they receive one **DIRE WOUND** per hit received beyond their maximum. When this happens, immediately roll 1d6 per DIRE WOUND, total the results, and apply the matching number and source of damage from the DIRE WOUNDS Chart to your character.
 
 ### DIRE WOUNDS
-| Total Roll | Blunt | Stabbing | Cutting | Searing | Poison | Corroding |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Examples: | Clubs, Sound | Daggers, Arrows | Swords, Axes | Fire, Lightning | Venom, Toxins | Acid, Necrosis | 
-| 1-5  | f | f | f | f | f | f |
-| 6-10 | f | f | f | f | f | f |
-| 11-15 | f | f | f | f | f | f |
-| 16-20 | f | f | f | f | f | f |
-| 21-25 | f | f | f | f | f | f |
-| 26-30 | f | f | f | f | f | f |
+| Total Roll | Blunt | Stabbing | Cutting | Searing | Poison | Corroding | Rending | 
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Examples: | Clubs, Sounds | Daggers, Arrows | Swords, Axes | Fire, Lightning | Venom, Toxins | Acid, Necrosis | Teeth, Claws |
+| 1-5  | f | f | f | f | f | f | f |
+| 6-10 | f | f | f | f | f | f | f |
+| 11-15 | f | f | f | f | f | f | f |
+| 16-20 | f | f | f | f | f | f | f |
+| 21-25 | f | f | f | f | f | f | f |
+| 26-30 | f | f | f | f | f | f | f |
 
 
 
