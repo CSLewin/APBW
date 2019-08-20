@@ -27,7 +27,7 @@ If your character has taken their maximum number of hits and receives any additi
 | 11-15 | Disfigured | Disfigured | Disfigured | Disfigured | Disfigured | Disfigured |
 | 16-20 | Mauled | Mauled | Mauled | Mauled | Mauled | Mauled |
 | 21-25 | Merely Dead | Merely Dead | Merely Dead | Merely Dead | Merely Dead | Merely Dead |
-| 26-30 | Impressively Dead | Impressively Dead | Impressively Dead | Impressively Dead | Impressively Dead | Impressively Dead |
+| 26-30 or more | Impressively Dead | Impressively Dead | Impressively Dead | Impressively Dead | Impressively Dead | Impressively Dead |
 
 
 
