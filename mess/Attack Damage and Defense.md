@@ -19,15 +19,15 @@ Your character can endure a maximum number of hits equal to **2 + 1/2 their leve
 If your character has taken their maximum number of hits and receives any additional hits, they receive one **DIRE WOUND** per hit received beyond their maximum. When this happens, immediately roll 1d6 per DIRE WOUND, total the results, and apply the matching number and source of damage from the DIRE WOUNDS Chart to your character.
 
 ### DIRE WOUNDS
-| Total Roll | Blunt | Stabbing | Cutting | Searing | Poison | Corroding | Rending | 
+| Total Roll | Blunt | Stabbing | Cutting | Burning | Poison | Necrosis | Rending | 
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| *Examples:* | *Clubs, Sounds* | *Daggers, Arrows* | *Swords, Axes* | *Fire, Lightning* | *Venom, Toxins* | *Acid, Necrosis* | *Teeth, Claws* |
-| 1-5  | Very Sad | f | f | f | f | f | f |
-| 6-10 | Knocked Out | f | f | f | f | f | f |
-| 11-15 | Disfigured | f | f | f | f | f | f |
-| 16-20 | Mauled | f | f | f | f | f | f |
-| 21-25 | Dead | f | f | f | f | f | f |
-| 26-30 | Impressively Dead | f | f | f | f | f | f |
+| *Examples:* | *Clubs, Thunder* | *Daggers, Arrows* | *Swords, Axes* | *Heat, Lightning, Acid* | *Venom, Toxin* | *Cold, Rot* | *Teeth, Claws* |
+| 1-5  | Very Sad | Very Sad | Very Sad | Very Sad | Very Sad | Very Sad | Very Sad |
+| 6-10 | Disabled | Disabled | Disabled | Disabled | Disabled | Disabled | Disabled |
+| 11-15 | Disfigured | Disfigured | Disfigured | Disfigured | Disfigured | Disfigured | Disfigured |
+| 16-20 | Mauled | Mauled | Mauled | Mauled | Mauled | Mauled | Mauled |
+| 21-25 | Merely Dead | Merely Dead | Merely Dead | Merely Dead | Merely Dead | Merely Dead | Merely Dead |
+| 26-30 | Impressively Dead | Impressively Dead | Impressively Dead | Impressively Dead | Impressively Dead | Impressively Dead | Impressively Dead |
 
 
 
