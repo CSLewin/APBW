@@ -20,8 +20,8 @@ If your character has taken their maximum number of hits and receives any additi
 
 ### DIRE WOUNDS
 | Total Roll | Blunt/Blasting | Piercing/Stabbing | Slashing/Cutting | Searing/Burning | Poison/Toxin | Rotting/Corroding |
-| Examples: | f | f | f | f | f | f | 
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Examples: | f | f | f | f | f | f | 
 | 1-5  |   |   |   |   |   |   |
 | 6-10 |   |   |   |   |   |   |
 | 11-15 |   |   |   |   |   |   |
