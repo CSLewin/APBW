@@ -16,7 +16,7 @@ Your character can endure a maximum number of hits equal to **2 + 1/2 their leve
 - Example: A 1st level character with a Grit of 0 has 2 (base) + (1st level/2 = 0.5, rounded down to 0) + 0 (Grit) = 2 maximum hits.
 - Example: A 3rd level character with a Grit of 2 has 2 (base) + (3rd level/2 = 1.5, rounded down to 1) + 2 (Grit) = 5 maximum hits.
 
-If your character has taken their maximum number of hits and receives any additional hits, they receive one **DIRE WOUND** per hit received beyond their maximum. When this happens, immediately roll 1d6 per DIRE WOUND, total the results, and apply the matching number and source of damage from the DIRE WOUNDS Chart to your character.
+If your character has taken their maximum number of hits and receives any additional hits, they receive one **DIRE WOUND** per hit received beyond their maximum. When this happens, immediately roll 1d6 per DIRE WOUND, total the results, and apply the matching number and source of damage from the DIRE WOUNDS Chart to your character. All DIRE WOUND results stack with themselves and each other.
 
 ### DIRE WOUNDS
 | Total Roll | Blunt | Stabbing | Cutting | Burning | Poison | Necrosis | 
