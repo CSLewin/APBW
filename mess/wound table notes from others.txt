@@ -1,0 +1,45 @@
+Psychic damage never incurs a roll on these tables. Instead, receiving psychic damage that reduces you to zero HP or while already at zero HP gives you two pain tokens instead of one. Psychic damage really hurts.
+
+Slashing and Chopping: Slashing damage
+Smashing and Crushing: Bludgeoning, Force, and Thunder damage
+Shanking and Piercing: Piercing damage
+Biting and Tearing: All damage from sharp natural weapons (claws, teeth, spines, etc.)
+Burning and Blasting: Fire, Lightning, Acid, and Radiant damage
+Freezing and Necrotising: Cold and Necrotic damage
+Bleeding: Bleed token damage and Poison damage
+
+
+Crushing (Bludgeoning, Thunder)
+Stabbing (Piercing)
+Cutting (Slashing)
+Searing (Fire, Lightning, Acid, Radiant)
+Rending (Force, Cold)
+Rotting (Poison, Necrotic)
+---------
+Psychic
+Bleed?
+
+				Crushing	Stabbing	Cutting	Searing	Rending	Rotting
+-1 to -10:		
+-11 to -15:
+-16 to -20:
+-20 or more:
+
+
+
+				1 Arm				2 Leg				3-4 Torso				5-6 Head
+1+				Disabled X Days		Disabled X Days		Cracked Ribs X Days		Concussed X Days
+
+11+				1 Fatal Wound		1 Fatal Wound		1 Fatal Wound			1 Fatal Wound
+				Mangled				Mangled				Crushed					Skullcracked
+
+16+				X-15 Fatal Wounds	X-15 Fatal Wounds	X-15 Fatal Wounds		X-15 Fatal Wounds
+
+
+				Acid/Fire			Cold/Frost			Lightning				Magic
+1+				Burned X Days		Frostbite X Days	Burned X Days			Anathema X Days
+
+11+				1 Fatal Wound		1 Fatal Wound		1 Fatal Wound			1 Fatal Wound
+				Save or Blind		Frozen				Save or Deaf			Save or Marked
+
+16+				X-15 Fatal Wounds	X-15 Fatal Wounds	X-15 Fatal Wounds		X-15 Fatal Wounds
