@@ -36,7 +36,7 @@ A relic with a greater enchantment has an Instability Die of a type shown on the
 
 A relic's Instability Die can be improved by 1 tier (Ud4 -> Ud6 -> Ud8 -> Ud10 -> Ud12 -> Ud20 -> None) for each of the elements listed below involved in that object's creation and use:
 - Origin: Are the raw materials exemplary?
-	- Examples: 
+	- Examples: Meteoric iron, angel bones, elemental quicksilver, dragon hide, quicksilver mirrors, bottled lightning, vampire fangs
 - Creation Process: Was the process of creating the object extraordinary?
 	- Examples: 
 - Exposure: Was the object exposed to aligned energies or substances?
