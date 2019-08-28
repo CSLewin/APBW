@@ -41,7 +41,8 @@ Move to a superior tactical position relative to a single opponent, such as forc
 Retrieve and use an item from a pocket or bag. Alternatively, interact with the environment--open or close a door, pull a lever, flip a table, etc.
 
 ### Call Out
-Utter anything more complicated than a shout of warning with the intent that an ally hears and understands you.
+Utter anything more complicated than a shout of warning with the intent that a named ally hears and understands you.
+- The ally whose you name you call immediately gains 1M. An ally can only gain 1M from Call Out actions per turn.
 
 ### Use Ability
 Some actors have special abilities or talents. The momentum cost to use them will be listed in that ability's description.
