@@ -18,7 +18,7 @@ Use your weapon (magical or mundane) to inflict harm on a target.
 ### Move (3M)
 Change your distance relative to something and/or someone else.
 
-Distances:
+#### Distances:
 - **Intimate**: Close enough to headbutt.
 - **Near**: Close enough to spit on.
 - **Far**: Close enough to hear angry shouting.
