@@ -1,5 +1,7 @@
 # Combat
 
+## Initiative
+
 All actors AWARE of danger roll initiative: Roll highest discipine die + Grace. This roll becomes the actor's starting momenutm.
 
 All actors SURPRISED by danger roll initiative: Roll lowest discipline die + Grace. This roll becomes the actor's starting momentum.
