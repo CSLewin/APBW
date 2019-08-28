@@ -1,11 +1,39 @@
 # Combat
 
+NPC Stats: Name - Defense #, Attack Skill X/Danger Y, Hits #, Special
+
+**Example:** *Master Assassin - Move 1, Attack Skill 2/Danger 2, Defense 3, Hits 3, Special: Wearying Poison (hit targets lose 2 momentum)*
+
+- Move: How many distance categories the NPC can move relative to the closest PC on its turn.
+- Attack Skill: The number subtracted from a Struck PC's armor die roll.
+- Danger: The number of times a PC must roll their armor die each time they are struck by this NPC. The NPC's Attack Skill applies to each roll.
+- Defense: The number added to the momentum cost for a PC to Strike or Reposition against this NPC.
+- Hits: The number of successful Strikes this NPC can endure before it is killed or disabled.
+- Special: Unusual abilities the NPC has. Defined below the NPC stat line if necessary.
+
 Sometimes you've just gotta chop heads. Combat basically works like this:
 1. Everyone rolls initiative. You roll your good die if you saw it coming; you roll your bad die if it's a surprise. Good dice and bad dice aren't *that* far apart; sometimes the foeman's bad day is better than your best.
+
 2. At the start of your turn, roll your good discipline die to generate **momentum**. Then, spend that momentum to do stuff; costs in momentum are written as **[number]M.**
+
 3. If you're at the right range to Strike your target and you can afford the momentum to do it, it happens. When a foe is out of hits, they're dead (or disabled, if you prefer; see "Strike to Disable").
-4. If an enemy Strikes you, you can pay the momentum to actively defend youself by Parrying (high risk/reward), Dodging (moderate risk/reward), or Blocking (low risk/reward but requires a shield that can degrade over time). If you can't or don't want to actively defend, you can passively defend by paying 1 momentum, even if this leaves you with negative momentum. You can also decide to forgo self-defense and rely entirely on your armor.
-5. If you fail or don't bother to defend yourself and the enemy successfully Strikes you, roll your Armor Die. Dangerous enemies will impose a negative modifier on this roll; VERY dangerous foes will make you roll more than once. If you roll a 1 or lower on your Armor Die, the enemy's blow struck true and you take a hit.
+
+4. If an enemy Strikes you, you can pay the momentum to actively defend youself by Parrying (high risk/reward), Dodging (moderate risk/reward), or Blocking (low risk/reward but requires a shield that degrades over time). If you can't or don't want to actively defend, you can passively defend by paying 1 momentum, even if this leaves you with negative momentum. You can also decide to forgo self-defense and rely entirely on your armor.
+- Parry: Discipline Die + Might (physical) or Lore (magic). Steel can only parry steel; magic can only parry magic. 
+	- Roll: Discipline Die + Might (physical) or Lore (magic) versus 4 + Enemy Attack Skill.
+	- Failure: Critically struck by attack (+1 armor die roll)
+	- Success: Deflect incoming attack and riposte (gain 4 momentum and may immediately Strike)
+- Dodge: 
+	- Roll: 
+	- Failure: 
+	- Success: 
+- Block: 
+	- Roll: 
+	- Failure: 
+	- Success: 
+
+5. If you fail or don't bother to defend yourself and the enemy successfully Strikes you, roll your Armor Die. Dangerous enemies will impose a negative modifier on this roll; VERY dangerous foes will make you roll more than once. If you roll a 1 or lower on your Armor Die, the enemy's blow struck true and you take a hit. You can endure a maximum number of hits equal to 2 + 1/2 your level (rounded down) + your Grit stat.
+
 6. For every hit you suffer over your maximum, you roll a cumulative 1d6 on the DIRE WOUNDS table. Generally, 1-5 is Very Sad, 6-10 is Disabled, 11-15 is Disfigured, 16-20 is Mauled, 21-25 is Merely Dead, and 26+ is Impressively Dead (such that it affects allies who witness it).
 
 ## Initiative
