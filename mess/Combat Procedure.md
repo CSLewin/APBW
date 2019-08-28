@@ -31,6 +31,8 @@ Change your distance relative to something and/or someone else.
 ### Reposition
 Move to a superior tactical position relative to a single opponent, such as forcing your foe to fight with their back to a pit.
 
+A target's defense value adds to the momentum cost of attempting to Reposition against them.
+
 ***Why would I do this?***
 - Some abilities require the user to be in a superior position relative to their target.
 
