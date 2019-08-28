@@ -26,7 +26,7 @@ An actor's defense value adds to the momentum cost of attempting to Strike them.
 Change your distance relative to something and/or someone else.
 
 ***Why would I do this?***
-- Some attacks function best--or work at all--at specific ranges.
+- Some attacks function best--or only work at all--at specific ranges.
 
 ### Reposition
 Move to a superior tactical position relative to a single opponent, such as forcing your foe to fight with their back to a pit.
