@@ -2,8 +2,9 @@
 
 ## Initiative
 
-All actors **aware of danger** roll initiative: Roll highest discipine die + Grace. This roll becomes the actor's starting momentum.\
-All actors **surprised by danger** roll initiative: Roll lowest discipline die + Grace. This roll becomes the actor's starting momentum.
+All actors participating in combat roll initiative.
+- All actors **aware of danger** roll initiative: Roll highest discipine die + Grace. This roll becomes the actor's starting momentum.
+- All actors **surprised by danger** roll initiative: Roll lowest discipline die + Grace. This roll becomes the actor's starting momentum.
 
 Actors take their turns in the order of their starting momentum, from highest to lowest.
 
