@@ -26,7 +26,13 @@ An actor's defense value adds to the momentum cost of attempting to Strike them.
 Change your distance relative to something and/or someone else.
 
 ***Why would I do this?***
-- Some attacks function best--or only work at all--at specific ranges.
+- Some attacks function best--or only work at all--at a specific range relative to the target.
+
+#### Distances and Positions:
+- **Intimate**: Close enough to headbutt.
+- **Near**: Close enough to spit on.
+- **Far**: Close enough to hear angry shouting.
+- **Distant**: A couple of football fields at least.
 
 ### Reposition
 Move to a superior tactical position relative to a single opponent, such as forcing your foe to fight with their back to a pit.
@@ -35,12 +41,6 @@ An actor's defense value adds to the momentum cost of attempting to Reposition a
 
 ***Why would I do this?***
 - Some abilities require the user to be in a superior position relative to their target.
-
-#### Distances and Positions:
-- **Intimate**: Close enough to headbutt.
-- **Near**: Close enough to spit on.
-- **Far**: Close enough to hear angry shouting.
-- **Distant**: A couple of football fields at least.
 
 ### Interact
 Retrieve and use an item from a pocket or bag. Alternatively, interact with the environment--open or close a door, pull a lever, flip a table, etc.
