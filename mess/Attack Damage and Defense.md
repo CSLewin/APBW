@@ -26,8 +26,8 @@ If your character has taken their maximum number of hits and receives any additi
 | 6-10 | Disabled | Disabled | Disabled | Disabled | Disabled | Disabled |
 | 11-15 | Disfigured | Disfigured | Disfigured | Disfigured | Disfigured | Disfigured |
 | 16-20 | Mauled | Mauled | Mauled | Mauled | Mauled | Mauled |
-| 21-25 | Merely Dead | Merely Dead | Merely Dead | Merely Dead | Merely Dead | Merely Dead |
-| 26 or higher | Impressively Dead | Impressively Dead | Impressively Dead | Impressively Dead | Impressively Dead | Impressively Dead |
+| 21-25 | Instant Death | Instant Death | Instant Death | Instant Death | Instant Death | Instant Death |
+| 26 or higher | Violent Death | Violent Death | Violent Death | Violent Death | Violent Death | Violent Death |
 
 
 
