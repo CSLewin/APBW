@@ -13,7 +13,8 @@
 
 ---
 
-Sometimes you've just gotta chop heads. Combat basically works like this:
+**Sometimes you've just gotta chop heads. Combat basically works like this:**
+
 1. Everyone rolls initiative. You roll your good die if you saw it coming; you roll your bad die if it's a surprise. Good dice and bad dice aren't *that* far apart; sometimes the foeman's bad day is better than your best.
 
 2. At the start of your turn, roll your good discipline die to generate **momentum**. Then, spend that momentum to do stuff; costs in momentum are written as **[number]M.**
