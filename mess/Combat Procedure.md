@@ -12,9 +12,11 @@ Actors take their turns in the order of their starting momentum, from highest to
 - Interact: 2M
 - Use Ability: Per ability description
 
-### Strike - Use your weapon (magical or mundane) to inflict harm on a target.
+### Strike (4M)
+Use your weapon (magical or mundane) to inflict harm on a target.
 
-### Move - Change your distance relative to something and/or someone else.
+### Move (3M)
+Change your distance relative to something and/or someone else.
 
 Distances:
 - **Intimate**: Close enough to headbutt.
@@ -22,6 +24,8 @@ Distances:
 - **Far**: Close enough to hear angry shouting.
 - **Distant**: A couple of football fields at least.
 
-### Interact - Retrieve and use an item from a pocket or bag. Alternatively, interact with the environment--open or close a door, pull a lever, flip a table, etc.
+### Interact (2M)
+Retrieve and use an item from a pocket or bag. Alternatively, interact with the environment--open or close a door, pull a lever, flip a table, etc.
 
-### Use Ability - Some actors have special abilities or talents. The momentum cost to use them will be listed in that ability's description.
+### Use Ability (Special)
+Some actors have special abilities or talents. The momentum cost to use them will be listed in that ability's description.
