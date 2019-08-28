@@ -1,9 +1,9 @@
 # Combat
 
 Sometimes you've just gotta chop heads. Combat basically works like this:
-1. Everyone rolls initiative. You roll your good die if you saw it coming; you roll your bad die if it's a surprise. 
-- Good dice and bad dice aren't *that* far apart; sometimes the foeman's bad day is better than your best.
-2. asdf
+1. Everyone rolls initiative. You roll your good die if you saw it coming; you roll your bad die if it's a surprise. Good dice and bad dice aren't *that* far apart; sometimes the foeman's bad day is better than your best.
+2. At the start of your turn, roll your good discipline die to generate **momentum**. Then, spend that momentum to do stuff; costs in momentum are written as **[number]M.**
+3. If you're at the right range to Strike your target and you can afford the momentum to do it, it happens. When a foe is out of hits, they're dead (or disabled, if you prefer).
 
 ## Initiative
 
@@ -26,6 +26,8 @@ Use your weapon (magical or mundane) to inflict harm on a target.
 
 An actor's defense value adds to the momentum cost of attempting to Strike them.
 - *Maissa strikes at a subterranean turtle knight. The turtle knight has a Defense of 2; normally, Maissa's strike would cost 4 momentum, but the knight's Defense of 2 raises the cost to 4 + 2  = 6 momentum.*
+
+Striking to Disable: If you want to merely knock out or disable your target, your Strike costs one additional momentum due to the difficulty of pulling your punches. You must declare your intent to Strike to Disable before paying the momentum cost and learning the result of your blow. If you didn't pay the extra momentum cost and your Strike removes your target's final hit, they're slain despite your best intentions. Combat is dangerous.
 
 ### Move
 Change your distance relative to something and/or someone else.
