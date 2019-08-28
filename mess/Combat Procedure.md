@@ -19,7 +19,7 @@ This roll becomes the actor's starting momentum. Actors take their turns in the 
 ### Strike
 Use your weapon (magical or mundane) to inflict harm on a target.
 
-A target's defense value adds to the momentum cost of attempting to Strike them.
+An actor's defense value adds to the momentum cost of attempting to Strike them.
 - *Maissa strikes at a subterranean turtle knight. The turtle knight has a Defense of 2; normally, Maissa's strike would cost 4 momentum, but the knight's Defense of 2 raises the cost to 4 + 2  = 6 momentum.*
 
 ### Move
@@ -31,7 +31,7 @@ Change your distance relative to something and/or someone else.
 ### Reposition
 Move to a superior tactical position relative to a single opponent, such as forcing your foe to fight with their back to a pit.
 
-A target's defense value adds to the momentum cost of attempting to Reposition against them.
+An actor's defense value adds to the momentum cost of attempting to Reposition against them.
 
 ***Why would I do this?***
 - Some abilities require the user to be in a superior position relative to their target.
