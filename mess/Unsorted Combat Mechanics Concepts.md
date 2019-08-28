@@ -71,24 +71,18 @@ When attacked, pick and roll using defense mode: PARRY, DODGE, or BLOCK.
 If struck, roll: 
 
 Parry - High risk, high reward. Steel parries steel; magic parries magic; no overlap.
-Critical Failure: Critically struck by attack.
-Failure: Struck by attack. 
-Success: Deflect incoming attack. No damage.
-Critical Success: Deflect incoming attack and immediately riposte.
+Roll: Discipline Die + Might (physical) or Lore (magic) versus 4 + Enemy Attack.
+Failure: Critically struck by attack (+1 armor die roll)
+Success: Deflect incoming attack, and riposte (immediately gain 4 momentum and the opportunity to Strike)
 
 Dodge - Moderate risk, moderate reward. Steel and magic can both be dodged.
-Critical Failure: Struck by attack and forced into bad position.
 Failure: Partially avoid attack. Reduced damage.
 Success: Entirely avoid attack. No damage.
-Critical Success: Entirely avoid attack and may disengage if desired.
 
 Block - Moderate risk, moderate reward. Requires shield. 
-Critical Failure: --
 Failure: Struck by attack.
 Success: Block attack. Immediately roll usage die for shield.
 Critical Success: --
-
-WHEN HIT BY AN ATTACK: Reduce damage by flat armor value + GRIT
 
 Best:	No damage, no contact
 Good:	No damage, contact

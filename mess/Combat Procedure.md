@@ -22,18 +22,20 @@
 3. If you're at the right range to Strike your target and you can afford the momentum to do it, it happens. When a foe is out of hits, they're dead (or disabled, if you prefer; see "Strike to Disable").
 
 4. If an enemy Strikes you, you can pay the momentum to actively defend youself by Parrying (high risk/reward), Dodging (moderate risk/reward), or Blocking (low risk/reward but requires a shield that degrades over time). If you can't or don't want to actively defend, you can passively defend by paying 1 momentum, even if this leaves you with negative momentum. You can also decide to forgo self-defense and rely entirely on your armor.
-- Parry: Discipline Die + Might (physical) or Lore (magic). Steel can only parry steel; magic can only parry magic. 
-	- Roll: Discipline Die + Might (physical) or Lore (magic) versus 4 + Enemy Attack Skill.
-	- Failure: Critically struck by attack (+1 armor die roll)
+- Parry: 
+	- Note: Steel can only parry steel; magic can only parry magic. 
+	- Roll: Discipline Die + Might (physical) or Lore (magic) + extra momentum spent - Enemy Attack Skill; success on a 7 or higher.
+	- Failure: Critically struck by attack (the strike gains +1d Danger)
 	- Success: Deflect incoming attack and riposte (gain 4 momentum and may immediately Strike)
 - Dodge: 
-	- Roll: 
-	- Failure: 
-	- Success: 
+	- Roll: Physical Discipline Die + Grace + extra momentum spent - Enemy Attack Skill; success on a 7 or higher.
+	- Failure: Partial avoidance; any armor die rolls receive a bonus equal to the extra momentum spent on the Dodge active defense
+	- Success: Attack successfully dodged.
 - Block: 
-	- Roll: 
-	- Failure: 
-	- Success: 
+	- Note: Blocking requires a ready shield. Steel and magic can block both themselves and each other.
+	- Roll: Shield armor die + Grit (physical) or Lore (magic) + extra momentum spent - Enemy Attack Skill; success on a 2 or higher.
+	- Failure: Struck by attack.
+	- Success: Attack blocked. Immediately roll shield armor die.
 
 5. If you fail or don't bother to defend yourself and the enemy successfully Strikes you, roll your Armor Die. Dangerous enemies will impose a negative modifier on this roll; VERY dangerous foes will make you roll more than once. If you roll a 1 or lower on your Armor Die, the enemy's blow struck true and you take a hit. You can endure a maximum number of hits equal to 2 + 1/2 your level (rounded down) + your Grit stat.
 
@@ -94,11 +96,12 @@ Utter anything more complicated than a shout of warning with the intent that a n
 Some actors have special abilities or talents. The momentum cost to use them will be listed in that ability's description.
 
 ## ACTIONS AND COSTS DURING ANOTHER ACTOR'S TURN: 
-- Active Defense: 3M
+- Active Defense: 3M or more
 - Passive Defense: 1M
 
 ### Active Defense
-Commit significant effort to a Parry, Dodge, or Block against an attack. You may only take this action if you have the momentum to spend on it. Your Parry, Dodge, or Block roll receives a +3 bonus, even if an ability changes the cost of Active Defense.
+Commit significant effort to a Parry, Dodge, or Block against an attack. You may only take this action if you have the momentum to spend on it. You may spend additional momentum beyond the minimum of 3 on your active defense. Your Parry, Dodge, or Block roll receives a bonus equal to momentum spent beyond the minimum of 3.
+- *Example: Bretolomeo has a Physical Discipline Die of 1d10 and a Grace of 1. A Seething Cultist with an Attack Skill of 2 hurls a magical gout of boiling blood at him, and Bartolomeo decides to spend momentum on an Active Defense--a Dodge. In addition to the minimum requirement of 3 momentum, Bartolomeo spends an additional 2 momentum, as getting covered in boiling blood sounds deeply unpleasant. Bartolomeo's Dodge roll is 1d10 (his Physical Discipline Die) + 1 (Grace) + 2 (momentum spent beyond the minimum of 3) - 2 (the Seething Cultist's Attack Skill). Bartolomeo rolls 1d10+1.*
 
 ### Passive Defense
 Parry, Dodge, or Block an attack with minimal effort. **You may spend momentum to take this action even if it would result in holding negative momentum,** but your Parry, Dodge, or Block roll suffers a penalty equal to your negative momentum.
