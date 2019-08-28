@@ -47,6 +47,8 @@
 - 21-25 is Instant Death (in various flavors)
 - 26+ is Violent Death (A death so shocking it afflicts your allies or hazards the battlefield)
 
+7. Once everyone has taken a turn, the next round starts. Everyone rolls initiative again, adds the new value to their current momentum count, and those values are used to determine turn order. Repeat these steps until there's nobody left who wants to keep fighting.
+
 ## Initiative
 
 All actors participating in combat roll initiative.
