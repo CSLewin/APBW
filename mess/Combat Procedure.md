@@ -9,15 +9,18 @@ All actors participating in combat roll initiative.
 This roll becomes the actor's starting momentum. Actors take their turns in the order of their starting momentum, from highest to lowest.
 
 ## ACTIONS AND COSTS DURING YOUR TURN: 
-- Strike: 4M
+- Strike: 4M + Target Defense
 - Move: 3M
-- Reposition: 2M
+- Reposition: 2M + Target Defense
 - Interact: 2M
 - Call Out: 1M
 - Use Ability: Per ability description
 
 ### Strike
 Use your weapon (magical or mundane) to inflict harm on a target.
+
+A target's defense value adds to the momentum cost of attempting to Strike them.
+- *Maissa strikes at a subterranean turtle knight. The turtle knight has a Defense of 2; normally, Maissa's strike would cost 4 momentum, but the knight's Defense of 2 raises the cost to 4 + 2  = 6 momentum.*
 
 ### Move
 Change your distance relative to something and/or someone else.
