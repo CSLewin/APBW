@@ -2,7 +2,7 @@
 
 **NPC Stats: Name - Defense # (description), Attack Skill #/Danger #d, Hits #, Special**
 
-**Example:** *Master Assassin - Move 1, Attack Skill 2/Danger 2d, Defense 3, Hits 3, Special: Wearying Poison (hit targets lose 2 momentum)*
+**Example:** *Master Assassin - Move 1, Attack Skill 2/Danger 2d, Defense 3 (hidden mail shirt), Hits 3, Special: Wearying Poison (hit targets lose 2 momentum)*
 
 - Move: How many distance categories the NPC can move relative to the closest PC on its turn.
 - Attack Skill: The number subtracted from each one of a Struck PC's armor die rolls.
