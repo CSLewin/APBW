@@ -3,10 +3,10 @@
 ## Initiative
 
 All actors participating in combat roll initiative.
-- All actors **aware of danger** roll their **highest** discipline die + Grace. This roll becomes the actor's starting momentum.
-- All actors **surprised by danger** roll their **lowest** discipline die + Grace. This roll becomes the actor's starting momentum.
+- All actors **aware of danger** roll their **highest** discipline die + Grace. 
+- All actors **surprised by danger** roll their **lowest** discipline die + Grace.
 
-Actors take their turns in the order of their starting momentum, from highest to lowest.
+This roll becomes the actor's starting momentum. Actors take their turns in the order of their starting momentum, from highest to lowest.
 
 ## ACTIONS AND COSTS DURING YOUR TURN: 
 - Strike: 4M
