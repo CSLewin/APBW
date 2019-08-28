@@ -52,7 +52,7 @@ Some actors have special abilities or talents. The momentum cost to use them wil
 - Passive Defense: 1M
 
 ### Active Defense
-Commit significant effort to a Parry, Dodge, or Block against an attack. You may only take this action if you have the momentum to spend on it.
+Commit significant effort to a Parry, Dodge, or Block against an attack. You may only take this action if you have the momentum to spend on it. Your Parry, Dodge, or Block roll receives a +3 bonus, even if an ability changes the cost of Active Defense.
 
 ### Passive Defense
-Parry, Dodge, or Block an attack with minimal effort. *You may take this action even if it would result in holding negative momentum, but your Parry, Dodge, or Block roll suffers a penalty equal to your negative momentum.*
+Parry, Dodge, or Block an attack with minimal effort. **You may spend momentum to take this action even if it would result in holding negative momentum,** but your Parry, Dodge, or Block roll suffers a penalty equal to your negative momentum.
