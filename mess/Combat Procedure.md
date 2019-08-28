@@ -1,6 +1,6 @@
 # Combat
 
-**NPC Stats: Name - Defense #, Attack Skill X/Danger Y, Hits #, Special**
+**NPC Stats: Name - Defense #, Attack Skill #/Danger #d, Hits #, Special**
 
 **Example:** *Master Assassin - Move 1, Attack Skill 2/Danger 2d, Defense 3, Hits 3, Special: Wearying Poison (hit targets lose 2 momentum)*
 
