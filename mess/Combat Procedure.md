@@ -1,5 +1,10 @@
 # Combat
 
+Sometimes you've just gotta chop heads. Combat basically works like this:
+1. Everyone rolls initiative. You roll your good die if you saw it coming; you roll your bad die if it's a surprise. 
+- Good dice and bad dice aren't *that* far apart; sometimes the foeman's bad day is better than your best.
+2. asdf
+
 ## Initiative
 
 All actors participating in combat roll initiative.
