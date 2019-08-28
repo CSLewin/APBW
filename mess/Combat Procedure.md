@@ -55,6 +55,12 @@ All actors participating in combat roll initiative.
 
 This roll becomes the actor's starting momentum. Actors take their turns in the order of their starting momentum, from highest to lowest.
 
+Once all actors have taken a turn, all actors still participating in combat roll initiative again and add the result to their current momentum. Actors take their turns in the order of their current momentum, from highest to lowest.
+
+An actor may spend as much momentum on their turn as they wish, as long as the action taken would not leave them with negative momentum.
+- Passive Defense is an exception; this action can result in a negative momentum count.
+- If an actor begins their turn with negative momentum, they may not act on their turn until they have positive momentum.
+
 ## ACTIONS AND COSTS DURING YOUR TURN: 
 - Strike: 4M + Target Defense
 - Move: 3M
