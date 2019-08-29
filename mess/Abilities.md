@@ -1,6 +1,6 @@
 # Abilities
 
-*Ability Name, #M*\
+*Ability Name - Cost: #M*\
 *Ability Requirements?*\
 *Ability description lorem ipsum sic dolor amet.*\
 *Ability mechanics lorem ipsum sic dolor amet.*

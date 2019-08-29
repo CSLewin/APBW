@@ -70,14 +70,15 @@ Damage is measured in hits, not HP.
 When attacked, pick and roll using defense mode: PARRY, DODGE, or BLOCK.
 If struck, roll: 
 
-Parry - High risk, high reward. Steel parries steel; magic parries magic; no overlap.
-Roll: Discipline Die + Might (physical) or Lore (magic) versus 4 + Enemy Attack.
-Failure: Critically struck by attack (+1 armor die roll)
-Success: Deflect incoming attack, and riposte (immediately gain 4 momentum and the opportunity to Strike)
+- Parry: Discipline Die + Might (physical) or Lore (magic). Steel can only parry steel; magic can only parry magic. 
+	- Roll: Discipline Die + Might (physical) or Lore (magic) + extra momentum spent - Enemy Attack Skill; success on a 7 or higher.
+	- Failure: Critically struck by attack (the strike gains +1d Danger)
+	- Success: Deflect incoming attack and riposte (gain 4 momentum and may immediately Strike)
 
-Dodge - Moderate risk, moderate reward. Steel and magic can both be dodged.
-Failure: Partially avoid attack. Reduced damage.
-Success: Entirely avoid attack. No damage.
+- Dodge: 
+	- Roll: Physical Discipline Die + Grace + extra momentum spent - Enemy Attack Skill; success on a 7 or higher.
+	- Failure: Partial avoidance; any armor die rolls receive a bonus equal to the extra momentum spent on the Dodge active defense
+	- Success: Attack successfully dodged.
 
 Block - Moderate risk, moderate reward. Requires shield. 
 Failure: Struck by attack.
