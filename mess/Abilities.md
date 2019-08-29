@@ -3,7 +3,7 @@
 *Ability Name, #M*\
 *Ability Requirements?*\
 *Ability description lorem ipsum sic dolor amet.*\
-*Ability mechanics lorem ipsum sic dolor amet.*\
+*Ability mechanics lorem ipsum sic dolor amet.*
 
 ## Abilities By Class
 
