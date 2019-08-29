@@ -86,10 +86,11 @@ Change your distance relative to something and/or someone else.
 - Some attacks function best--or only work at all--at a specific range relative to the target.
 
 #### Distances and Positions:
-- **Intimate**: Close enough to headbutt.
-- **Near**: Close enough to spit on.
-- **Far**: Close enough to hear angry shouting.
-- **Distant**: A couple of football fields at least.
+- **Intimate**: Near enough to headbutt.
+- **Close**: Kicking or spitting distance.
+- **Near**: Talking distance. Across a room.
+- **Far**: Singing or shouting distance.
+- **Distant**: Just far enough to see on a clear day.
 
 ### Reposition
 Move to a superior tactical position relative to a single opponent, such as forcing your foe to fight with their back to a pit.
