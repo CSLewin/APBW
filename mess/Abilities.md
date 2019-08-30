@@ -107,12 +107,12 @@
 
 ### Fury (MD 1d2, PD 2d8)
 - *What is the core conceit of this class?*
-	- Abandon rational thought to gain the gift of unrelenting strength.
+	- Abandon the burden of the mind for the gift of unrelenting strength.
 - *What is the base ability of this class?*
 
 ### Sorcerer (MD 2d8, PD 1d2)
 - *What is the core conceit of this class?*
-	- Abandon physicality to gain the gift of unending magic.
+	- Abandon the burden of flesh for the gift of seething magic.
 - *What is the base ability of this class?*
 
 ---
