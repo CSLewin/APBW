@@ -15,7 +15,7 @@ You clear one Exhausted inventory slot for every full hour of decent rest you ge
 
 Realism isn't what makes for a good game, but it's nice for establishing benchmarks. I looked at Olympic wrestling for match numbers and bout lengths to try to pin what a possible peak of human physical effort would look like. This feels like a reasonable range. (You can still operate when all your inventory slots are Exhausted, but you're at a disadvantage to pretty much every physical action; it'd all but guarantee you'd lose a bout against an equally-skilled opponent that wasn't similarly exhausted.)
 
-```3 minutes * 2 bouts * 5 matches = 30 minutes * 60 seconds = 1800 seconds```
+```3 minutes * 2 bouts * 5 matches = 30 minutes * 60 seconds = 1800 seconds```\
 ```1800 seconds / 10-second combat rounds = 180 combat rounds per day```
 
 - For a 5 Grit, 2 Might character: 180 combat rounds / 15 Stamina = 12.000 of 12 inventory slots filled (0.000 overflow)
