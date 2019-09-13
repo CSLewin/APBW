@@ -35,11 +35,13 @@ When you break down an object to make hacksilver out of it, reduce the item slot
 ## Buying Things
 Costs are listed by usage die and descriptor. Find the highest applicable descriptor on the list--that's the cost of the purchase.
 
-To complete a purchase, roll a treasure usage die of the indicated size or higher and apply your character's Charm/Personality modifier to the die's result. 
+To complete a purchase, roll a treasure usage die of the indicated size or higher and apply your character's Charm/Personality modifier to the die's result. Additional modifiers to your roll may apply based on the quantity of items you're attempting to purchase and your relationship with the seller.
 
 **On a result of 1 or lower**, unfavorable circumstances leave you with the choice of losing the die immedaitely and entirely (but completing the purchase), or abandoning the deal at the cost of severely irritating the seller, the consequences of which are left to the GM to determine.
 
-**On a result of the maximum face value of the die or higher**, 
+**On a result of the maximum face value of the die or higher**, your excellent negotiation earns you the item and you keep your treasure usage die.
+
+**On any other result**, you purchase your item and your treasure usage die is reduced one step. (d12 -> d10 -> d8 -> d6 -> d4 -> Loose Change)
 
 **Costs to Purchase (Use Highest Applicable Descriptor)**
 
@@ -51,11 +53,6 @@ To complete a purchase, roll a treasure usage die of the indicated size or highe
 | Ud10 | exquisite, rare, proscribed | 
 | Ud12 | extraordinary, unique, exotic | 
 | Ud20 | regal, ridiculous, huge |
-
-**Roll Outcomes - Apply Charm/Personality modifier!**
-- 1 or lower: Die lost **OR** abandon the deal and severely annoy the seller
-- Max die value or higher: Die remains unchanged
-- Other: Die reduced one step (d12 -> d10 -> d8 -> d6 -> d4 -> Loose Change)
 
 **Modifiers**
 - Buying about half a dozen: -1
