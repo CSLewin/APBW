@@ -41,7 +41,8 @@ To complete a purchase, roll a treasure usage die of the indicated size or highe
 
 **On a result of the maximum face value of the die or higher**, your excellent negotiation earns you the item and you keep your treasure usage die.
 
-**On any other result**, you purchase your item and your treasure usage die is reduced one step. (d12 -> d10 -> d8 -> d6 -> d4 -> Loose Change)
+**On any other result**, you purchase your item and your treasure usage die is reduced one step. 
+- Ud20 -> Ud12 -> Ud10 -> Ud8 -> Ud6 -> Ud4 -> Loose Change
 
 **Costs to Purchase (Use Highest Applicable Descriptor)**
 
