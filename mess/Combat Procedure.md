@@ -8,7 +8,7 @@
 - Danger: The number of times a PC must roll their armor die each time they are struck by this NPC.
 - Attack Skill: The number subtracted from each one of a struck PC's armor die rolls.
 - Defense: The number added to the momentum cost for a PC to Strike or Reposition against this NPC, and a qualitative description of the source(s) of this protection (armor, carapace, mobility, etc.)
-- Hits: The number of successful Strikes this NPC can endure before it is killed or disabled.
+- Hits: The number of successful strikes this NPC can endure before it is killed or disabled.
 - Special: Unusual abilities the NPC has. Defined below the NPC stat line if necessary.
 
 ---
