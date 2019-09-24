@@ -21,7 +21,7 @@
 
 3. If you're at the right range to Strike your target and you can afford the momentum to do it, it happens. When a foe is out of hits, they're dead (or disabled, if you prefer; see "Strike to Disable").
 
-4. If an enemy Strikes you, you can pay the momentum to actively defend youself by Parrying (high risk/reward), Dodging (moderate risk/reward), or Blocking (low risk/reward but requires a shield that degrades over time). If you can't or don't want to actively defend, you can passively defend by paying 1 momentum, even if this leaves you with negative momentum. You can also decide to forgo self-defense and rely entirely on your armor.
+4. If an enemy Strikes you, you can pay the momentum to actively defend youself (3M or more) by Parrying (high risk/reward), Dodging (moderate risk/reward), or Blocking (low risk/reward but requires a shield that degrades over time). If you can't or don't want to actively defend, you can passively defend yourself with a parry, dodge, or block (1M), even if this would leave you with negative momentum, although negative momentum applies as a penalty to your defense roll. You can also decide to forgo self-defense and rely entirely on your armor.
 - Parry: 
 	- Note: Steel can only parry steel; magic can only parry magic. 
 	- Roll: Discipline Die + Might (physical) or Lore (magic) + extra momentum spent - Enemy Attack Skill; success on a 7 or higher.
@@ -77,7 +77,7 @@ Use your weapon (magical or mundane) to inflict harm on a target.
 An actor's defense value adds to the momentum cost of attempting to Strike them.
 - *Maissa strikes at a subterranean turtle knight. The turtle knight has a Defense of 2; normally, Maissa's strike would cost 4 momentum, but the knight's Defense of 2 raises the cost to 4 + 2  = 6 momentum.*
 
-Striking to Disable: If you want to merely knock out or disable your target, your Strike costs one additional momentum due to the difficulty of pulling your punches. You must declare your intent to Strike to Disable before paying the momentum cost and learning the result of your blow. If you didn't pay the extra momentum cost and your Strike removes your target's final hit, they're slain despite your best intentions. Combat is dangerous.
+Striking to Disable: If you want to merely knock out or disable your target, your Strike costs one additional momentum due to the difficulty of pulling your punches. You must declare your intent to Strike to Disable before paying the momentum cost and learning the result of your blow. If you didn't pay the extra momentum cost and your Strike removes your target's final hit, they're slain despite your best intentions.
 
 ### Move
 Change your distance relative to something and/or someone else.
