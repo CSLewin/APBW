@@ -39,7 +39,7 @@
 
 5. If you fail or don't bother to defend yourself and the enemy successfully Strikes you, roll your Armor Die. Dangerous enemies will impose a negative modifier on this roll; VERY dangerous foes will make you roll more than once. If you roll a 1 or lower on your Armor Die, the enemy's blow struck true and you take a hit. Additionally, your armor die decreases one step. You can endure a maximum number of hits equal to 2 + 1/2 your level (rounded down) + Grit. Hits beyond this limit are tremendously dangerous.
 
-6. For every hit you suffer over your maximum, you roll a cumulative 1d6 on the DIRE WOUNDS table. Although effects differ by the type of damage inflicted, generally...
+6. For every hit you suffer beyond your maximum limit, you roll a cumulative 1d6 on the DIRE WOUNDS table. Although effects differ by the type of damage inflicted, generally...
 - 1-5 is Very Sad (Temporary reduction of stats)
 - 6-10 is Disabled (Knocked senseless for at least 10 minutes)
 - 11-15 is Disfigured (Permanent cosmetic damage--missing teeth/ear/nose/unimportant fingers)
