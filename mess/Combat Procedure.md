@@ -1,23 +1,23 @@
 # Combat
 
-**NPC Stats: Name - Defense # (description), Danger #d/Attack Skill #, Hits #, Special**
+**NPC Stats: Name - Move # (Special), Defense # (description), Danger #d/Attack Skill #, Hits #, Special**
 
-**Example:** *Beetle Clan Assassin - Move 1 (Climb), Danger 2d/Attack Skill 2, Defense 3 (hidden mail shirt), Hits 3, Special: Wearying Poison (targets lose 2 momentum per strike)*
+**Example:** *Beetle Clan Assassin - Hits 3, Defense 3 (hidden mail shirt), Move 1 (Climb), Danger 2d/Attack Skill 2, Special: Wearying Poison (targets lose 2 momentum per strike)*
 
+- Hits: The number of successful strikes this NPC can endure before it is killed or disabled.
+- Defense: The number added to the momentum cost for a PC to Strike or Reposition against this NPC, and a qualitative description of the source(s) of this protection (armor, carapace, mobility, etc.)
 - Move: How many distance categories the NPC can move relative to the closest PC on its turn, and any special movement methods available.
 - Danger: The number of times a PC must roll their armor die each time they are struck by this NPC.
 - Attack Skill: The number subtracted from each one of a struck PC's armor die rolls.
-- Defense: The number added to the momentum cost for a PC to Strike or Reposition against this NPC, and a qualitative description of the source(s) of this protection (armor, carapace, mobility, etc.)
-- Hits: The number of successful strikes this NPC can endure before it is killed or disabled.
 - Special: Unusual abilities the NPC has. Defined below the NPC stat line if necessary.
 
 ---
 
 **Sometimes you've just gotta chop heads. Combat basically works like this:**
 
-1. Everyone rolls initiative. You roll your good die if you saw it coming; you roll your bad die if it's a surprise. Good dice and bad dice aren't *that* far apart; sometimes the foeman's bad day is better than your best.
+1. When combat begins, each player rolls a discipline die to generate **momentum**. Roll your better discipline die if you saw the threat coming; roll your worse discipline die if it was a surprise. The result of your roll is both your starting momentum value and your **initiative score**. NPCs have initiative scores equal to their Attack Skill + 3. Turn order proceeds from highest to lowest inititive score.
 
-2. At the start of your turn, roll your good discipline die to generate **momentum**. Then, spend that momentum to do stuff; costs in momentum are written as **[number]M.**
+2. When your turn begins, spend momentum to do stuff; costs in momentum are written as **[number]M.**
 
 3. If you're at the right range to Strike your target and you can afford the momentum to do it, it happens. When a foe is out of hits, they're dead (or disabled, if you prefer; see "Strike to Disable").
 
