@@ -1,12 +1,12 @@
 # Combat
 
-**NPC Stats: Name - Defense # (description), Attack Skill #/Danger #d, Hits #, Special**
+**NPC Stats: Name - Defense # (description), Danger #d/Attack Skill #, Hits #, Special**
 
-**Example:** *Master Assassin - Move 1, Attack Skill 2/Danger 2d, Defense 3 (hidden mail shirt), Hits 3, Special: Wearying Poison (hit targets lose 2 momentum)*
+**Example:** *Beetle Clan Assassin - Move 1 (Climb), Danger 2d/Attack Skill 2, Defense 3 (hidden mail shirt), Hits 3, Special: Wearying Poison (targets lose 2 momentum per strike)*
 
-- Move: How many distance categories the NPC can move relative to the closest PC on its turn.
-- Attack Skill: The number subtracted from each one of a Struck PC's armor die rolls.
+- Move: How many distance categories the NPC can move relative to the closest PC on its turn, and any special movement methods available.
 - Danger: The number of times a PC must roll their armor die each time they are struck by this NPC.
+- Attack Skill: The number subtracted from each one of a struck PC's armor die rolls.
 - Defense: The number added to the momentum cost for a PC to Strike or Reposition against this NPC, and a qualitative description of the source(s) of this protection (armor, carapace, mobility, etc.)
 - Hits: The number of successful Strikes this NPC can endure before it is killed or disabled.
 - Special: Unusual abilities the NPC has. Defined below the NPC stat line if necessary.
