@@ -22,14 +22,14 @@
 	- Be second-best at everything. Adapt to circumstances. Travel well.
 - *What is the base ability of this class?*
 
-### Warlock (MD 1d10, PD 1d6)
+### Cultist (MD 1d10, PD 1d6)
 - *What is the core conceit of this class?*
-	- Bargain indiscriminately for power from otherworldly sources.
+	- Gain strength from your worship of an otherworldly power.
 - *What is the base ability of this class?*
 
-### Sage (MD 1d12, PD 1d4)
+### Scholar (MD 1d12, PD 1d4)
 - *What is the core conceit of this class?*
-	- Study this world's fundamental forces and discover their secret laws. Know many things.
+	- Know a great deal about a small number of things.
 - *What is the base ability of this class?*
 
 ---
@@ -44,14 +44,14 @@
 	- Get in and out of places you shouldn't be. Always have the right tool for the job.
 - *What is the base ability of this class?*
 
-### Cultist (MD 1d10, PD 1d8)
+### Warlock (MD 1d10, PD 1d8)
 - *What is the core conceit of this class?*
-	- Gain strength from your worship of an otherworldly power.
+	- Bargain indiscriminately for power from otherworldly sources.
 - *What is the base ability of this class?*
 
-### Scholar (MD 1d12, PD 1d6)
+### Sage (MD 1d12, PD 1d6)
 - *What is the core conceit of this class?*
-	- Know a great deal about a small number of things.
+	- Study this world's fundamental forces and discover their secret laws. Know many things.
 - *What is the base ability of this class?*
 
 ---
