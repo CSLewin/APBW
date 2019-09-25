@@ -26,7 +26,10 @@
 	- **Reposition:** An NPC automatically repositions themselves against another NPC or PC, but a PC immediately gains momentum equal to 4 minus the NPC's attack skill (minimum 0).
 	- **Use An Ability:** Resolve per the description of the ability being used.
 
-3. When your turn begins, spend momentum to take actions; costs in momentum are written as **[number]M.**
+3. When your turn begins:
+- Mark a Stamina tally. Your Stamina is equal to 10 + Grit. If you have Stamina tallies equal to your Stamina score, erase all your Stamina tallies and fill an item slot with EXHAUSTED. 
+	- The EXHAUSTED item slot can't be used until you rest, at which point all EXHAUSTED item slots are restored.
+- Spend momentum to take actions; costs in momentum are written as **[number]M.**
 
 4. If you're at the right range to Strike your target and you have the momentum to do so, it happens. When a foe is out of hits, they're dead (or disabled, if you prefer; see "Strike to Disable").
 
@@ -46,7 +49,7 @@
 	- Failure: Struck by attack.
 	- Success: Attack blocked. Immediately roll shield armor die.
 
-6. If you fail or don't bother to defend yourself and the enemy successfully Strikes you, roll your Armor Die. Dangerous enemies will impose a negative modifier on this roll; VERY dangerous foes will make you roll more than once. If you roll a 1 or lower on your Armor Die, the enemy's blow struck true and you take a hit. Additionally, your armor die decreases one step. You can endure a maximum number of hits equal to 2 + 1/2 your level (rounded down) + Grit. Hits beyond this limit are tremendously dangerous.
+6. If you fail or don't bother to defend yourself and the enemy successfully Strikes you, roll your Armor Die + Grit. Dangerous enemies will impose a negative modifier on this roll; VERY dangerous foes will make you roll more than once. If you roll a total of 1 or lower on your Armor Die, the enemy's blow struck true and you take a hit. Additionally, your armor die decreases one step. You can endure a maximum number of hits equal to 2 + 1/2 your level (rounded down) + Grit. Hits beyond this limit are tremendously dangerous.
 
 Starting Armor Die is deterined by the type of armor worn. When you take a hit, reduce the Armor Die by one step (Ud8 -> Ud6 -> Ud4 -> 1 -> 0). End of Round penalties to momentum do not change as armor is damaged.
 - No Armor: No Armor Die; all successful strikes are hits.
@@ -62,11 +65,13 @@ Starting Armor Die is deterined by the type of armor worn. When you take a hit, 
 - 21-25 is Instant Death (in various flavors)
 - 26+ is Violent Death (A death so shocking it afflicts your allies or hazards the battlefield)
 
-8. Resolve any End of Round effects. Some spells and abilities may happen at this point, as well as penalties to momentum from armor.
-- No Armor: No End of Round momentum penalty
-- Leather: -1 momentum at End of Round
-- Chain: -2 momentum at End of Round
-- Plate: -4 momentum at End of Round
+8. Resolve any End of Round effects:
+- Resolve spells and abilities that have an End of Round component.
+- Resolve penalties to momentum from armor.
+	- No Armor: No End of Round momentum penalty
+	- Leather: -1 momentum at End of Round
+	- Chain: -2 momentum at End of Round
+	- Plate: -4 momentum at End of Round
 
 9. Begin the next round. Everyone rolls initiative again, adds the new value to their current momentum count, and those values are used to determine turn order. Repeat these steps until there's nobody left who wants to keep fighting.
 
