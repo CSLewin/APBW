@@ -18,16 +18,19 @@
 1. When combat begins, each player rolls a discipline die + Grace to generate **momentum**. Roll your better discipline die if you saw the threat coming; roll your worse discipline die if it was a surprise. The result of your roll is both your starting momentum value and your **initiative score**. NPCs have initiative scores equal to their Attack Skill + 3, but NPCs do not use momentum. Turn order proceeds from highest to lowest inititive score.
 
 2. NPCs may do all of the following things on their turns:
-- Move OR Reposition
-	- Move: An NPC can move a number of distance steps equal to their Move score. Special methods of movement, such as climbing or flying, will have their own Move scores.
-	- Reposition: 
-- Strike OR Interact OR Use An Ability
+- Move OR Interact
+	- **Move:** An NPC can move a number of distance steps equal to their Move score. Special methods of movement, such as climbing or flying, will have their own Move scores.
+	- **Interact:** As described below.
+- Strike OR Reposition OR Use An Ability
+	- **Strike:** NPCs do not make attack rolls; rather, PCs make defense rolls. See below.
+	- **Reposition:** An NPC automatically repositions themselves against another NPC or PC, but a PC immediately gains momentum equal to 4 minus the NPC's attack skill (minimum 0).
+	- **Use An Ability:** Resolve per the description of the ability being used.
 
-3. When your turn begins, spend momentum to do stuff; costs in momentum are written as **[number]M.**
+3. When your turn begins, spend momentum to take actions; costs in momentum are written as **[number]M.**
 
-4. If you're at the right range to Strike your target and you can afford the momentum to do it, it happens. When a foe is out of hits, they're dead (or disabled, if you prefer; see "Strike to Disable").
+4. If you're at the right range to Strike your target and you have the momentum to do so, it happens. When a foe is out of hits, they're dead (or disabled, if you prefer; see "Strike to Disable").
 
-5. If an enemy Strikes you, you can pay the momentum to actively defend youself (3M or more) by Parrying (high risk/reward), Dodging (moderate risk/reward), or Blocking (low risk/reward but requires a shield that degrades over time). If you can't or don't want to actively defend, you can passively defend yourself with a parry, dodge, or block (1M), even if this would leave you with negative momentum, although negative momentum applies as a penalty to your defense roll. You can also decide to forgo self-defense and rely entirely on your armor.
+5. If an enemy Strikes you, you can pay the momentum (3M or more) to actively defend youself by Parrying (high risk/reward), Dodging (moderate risk/reward), or Blocking (low risk/reward but requires a shield that can degrade over time). If you are unable or unwilling to actively defend, you can passively defend yourself with a parry, dodge, or block (1M), even if this would leave you with negative momentum, although negative momentum applies as a penalty to all defense rolls. You can also decide to forgo self-defense and rely entirely on your armor.
 - Parry: 
 	- Note: Steel can only parry steel; magic can only parry magic. 
 	- Roll: Discipline Die + Might (physical) or Lore (magic) + extra momentum spent **VERSUS** 7 + Foe Attack Skill
