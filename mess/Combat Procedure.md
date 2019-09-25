@@ -19,7 +19,7 @@ Momentum Gain/Current: 1d10+2 / 0 (-2 EoR)\
 Stamina (10): 0
 
 | Class | Physical Discipline Die | Mental Discipline Die |
-| --- | --- | --- |
+| :---: | :---: | :---: |
 | Berserker | 1d12 | 1d4 |
 | Mercenary | 1d10 | 1d6 |
 | Wanderer | 1d8 | 1d8 |
