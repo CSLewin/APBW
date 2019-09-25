@@ -15,13 +15,19 @@
 
 **Sometimes you've just gotta chop heads. Combat basically works like this:**
 
-1. When combat begins, each player rolls a discipline die to generate **momentum**. Roll your better discipline die if you saw the threat coming; roll your worse discipline die if it was a surprise. The result of your roll is both your starting momentum value and your **initiative score**. NPCs have initiative scores equal to their Attack Skill + 3. Turn order proceeds from highest to lowest inititive score.
+1. When combat begins, each player rolls a discipline die + Grace to generate **momentum**. Roll your better discipline die if you saw the threat coming; roll your worse discipline die if it was a surprise. The result of your roll is both your starting momentum value and your **initiative score**. NPCs have initiative scores equal to their Attack Skill + 3, but NPCs do not use momentum. Turn order proceeds from highest to lowest inititive score.
 
-2. When your turn begins, spend momentum to do stuff; costs in momentum are written as **[number]M.**
+2. NPCs may do all of the following things on their turns:
+- Move OR Reposition
+	- Move: An NPC can move a number of distance steps equal to their Move score. Special methods of movement, such as climbing or flying, will have their own Move scores.
+	- Reposition: 
+- Strike OR Interact OR Use An Ability
 
-3. If you're at the right range to Strike your target and you can afford the momentum to do it, it happens. When a foe is out of hits, they're dead (or disabled, if you prefer; see "Strike to Disable").
+3. When your turn begins, spend momentum to do stuff; costs in momentum are written as **[number]M.**
 
-4. If an enemy Strikes you, you can pay the momentum to actively defend youself (3M or more) by Parrying (high risk/reward), Dodging (moderate risk/reward), or Blocking (low risk/reward but requires a shield that degrades over time). If you can't or don't want to actively defend, you can passively defend yourself with a parry, dodge, or block (1M), even if this would leave you with negative momentum, although negative momentum applies as a penalty to your defense roll. You can also decide to forgo self-defense and rely entirely on your armor.
+4. If you're at the right range to Strike your target and you can afford the momentum to do it, it happens. When a foe is out of hits, they're dead (or disabled, if you prefer; see "Strike to Disable").
+
+5. If an enemy Strikes you, you can pay the momentum to actively defend youself (3M or more) by Parrying (high risk/reward), Dodging (moderate risk/reward), or Blocking (low risk/reward but requires a shield that degrades over time). If you can't or don't want to actively defend, you can passively defend yourself with a parry, dodge, or block (1M), even if this would leave you with negative momentum, although negative momentum applies as a penalty to your defense roll. You can also decide to forgo self-defense and rely entirely on your armor.
 - Parry: 
 	- Note: Steel can only parry steel; magic can only parry magic. 
 	- Roll: Discipline Die + Might (physical) or Lore (magic) + extra momentum spent - Enemy Attack Skill; success on a 7 or higher.
@@ -37,9 +43,15 @@
 	- Failure: Struck by attack.
 	- Success: Attack blocked. Immediately roll shield armor die.
 
-5. If you fail or don't bother to defend yourself and the enemy successfully Strikes you, roll your Armor Die. Dangerous enemies will impose a negative modifier on this roll; VERY dangerous foes will make you roll more than once. If you roll a 1 or lower on your Armor Die, the enemy's blow struck true and you take a hit. Additionally, your armor die decreases one step. You can endure a maximum number of hits equal to 2 + 1/2 your level (rounded down) + Grit. Hits beyond this limit are tremendously dangerous.
+6. If you fail or don't bother to defend yourself and the enemy successfully Strikes you, roll your Armor Die. Dangerous enemies will impose a negative modifier on this roll; VERY dangerous foes will make you roll more than once. If you roll a 1 or lower on your Armor Die, the enemy's blow struck true and you take a hit. Additionally, your armor die decreases one step. You can endure a maximum number of hits equal to 2 + 1/2 your level (rounded down) + Grit. Hits beyond this limit are tremendously dangerous.
 
-6. For every hit you suffer beyond your maximum limit, you roll a cumulative 1d6 on the DIRE WOUNDS table. Although effects differ by the type of damage inflicted, generally...
+Starting Armor Die is deterined by the type of armor worn. When you take a hit, reduce the Armor Die by one step (Ud8 -> Ud6 -> Ud4 -> 1 -> 0). End of Round penalties to momentum do not change as armor is damaged.
+- No Armor: No Armor Die; all successful strikes are hits.
+- Leather: Ud4
+- Chain: Ud6
+- Plate: Ud8
+
+7. For every hit you suffer beyond your maximum limit, you roll a cumulative 1d6 on the DIRE WOUNDS table. Although effects differ by the type of damage inflicted, generally...
 - 1-5 is Very Sad (Temporary reduction of stats)
 - 6-10 is Disabled (Knocked senseless for at least 10 minutes)
 - 11-15 is Disfigured (Permanent cosmetic damage--missing teeth/ear/nose/unimportant fingers)
@@ -47,7 +59,13 @@
 - 21-25 is Instant Death (in various flavors)
 - 26+ is Violent Death (A death so shocking it afflicts your allies or hazards the battlefield)
 
-7. Once everyone has taken a turn, the next round starts. Everyone rolls initiative again, adds the new value to their current momentum count, and those values are used to determine turn order. Repeat these steps until there's nobody left who wants to keep fighting.
+8. Resolve any End of Round effects. Some spells and abilities may happen at this point, as well as penalties to momentum from armor.
+- No Armor: No End of Round momentum penalty
+- Leather: -1 momentum at End of Round
+- Chain: -2 momentum at End of Round
+- Plate: -4 momentum at End of Round
+
+9. Begin the next round. Everyone rolls initiative again, adds the new value to their current momentum count, and those values are used to determine turn order. Repeat these steps until there's nobody left who wants to keep fighting.
 
 ## Initiative
 
