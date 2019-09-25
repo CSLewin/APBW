@@ -30,16 +30,16 @@
 5. If an enemy Strikes you, you can pay the momentum to actively defend youself (3M or more) by Parrying (high risk/reward), Dodging (moderate risk/reward), or Blocking (low risk/reward but requires a shield that degrades over time). If you can't or don't want to actively defend, you can passively defend yourself with a parry, dodge, or block (1M), even if this would leave you with negative momentum, although negative momentum applies as a penalty to your defense roll. You can also decide to forgo self-defense and rely entirely on your armor.
 - Parry: 
 	- Note: Steel can only parry steel; magic can only parry magic. 
-	- Roll: Discipline Die + Might (physical) or Lore (magic) + extra momentum spent **versus** 7 + Foe Attack Skill
+	- Roll: Discipline Die + Might (physical) or Lore (magic) + extra momentum spent **VERSUS** 7 + Foe Attack Skill
 	- Failure: Critically struck by attack (the strike gains +1d Danger)
 	- Success: Deflect incoming attack and riposte (gain 4 momentum and may immediately Strike)
 - Dodge: 
-	- Roll: Physical Discipline Die + Grace + extra momentum spent **versus** 7 + Foe Attack Skill
+	- Roll: Physical Discipline Die + Grace + extra momentum spent **VERSUS** 7 + Foe Attack Skill
 	- Failure: Partial avoidance; any armor die rolls receive a bonus equal to the extra momentum spent on the Dodge active defense
 	- Success: Attack successfully dodged.
 - Block: 
 	- Note: Blocking requires a ready shield. Steel and magic can block both themselves and each other.
-	- Roll: Shield armor die + Grit (physical) or Lore (magic) + extra momentum spent **versus** 2 + Foe Attack Skill
+	- Roll: Shield armor die + Grit (physical) or Lore (magic) + extra momentum spent **VERSUS** 2 + Foe Attack Skill
 	- Failure: Struck by attack.
 	- Success: Attack blocked. Immediately roll shield armor die.
 
