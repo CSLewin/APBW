@@ -132,12 +132,15 @@ Utter anything more complicated than a shout of warning with the intent that a n
 Some actors have special abilities or talents. The momentum cost to use them will be listed in that ability's description.
 
 ## ACTIONS AND COSTS DURING ANOTHER ACTOR'S TURN: 
-- Active Defense: 3M or more
-- Passive Defense: 1M
+- Active Defense: 3M or more OR 2M or less (see description)
 
 ### Active Defense
-Commit significant effort to a Parry, Dodge, or Block against an attack. You may only take this action if you have the momentum to spend on it. You may spend additional momentum beyond the minimum of 3 on your active defense. Your Parry, Dodge, or Block roll receives a bonus equal to momentum spent beyond the minimum of 3.
-- *Example: Bretolomeo has a Physical Discipline Die of 1d10 and a Grace of 1. A Seething Cultist with an Attack Skill of 2 hurls a magical gout of boiling blood at him, and Bartolomeo decides to spend momentum on an Active Defense--a Dodge. In addition to the minimum requirement of 3 momentum, Bartolomeo spends an additional 2 momentum, as getting covered in boiling blood sounds deeply unpleasant. Bartolomeo's Dodge roll is 1d10 (his Physical Discipline Die) + 1 (Grace) + 2 (momentum spent beyond the minimum of 3) - 2 (the Seething Cultist's Attack Skill). Bartolomeo rolls 1d10+1.*
+Defend yourself against an attack with a Parry, Dodge, or Block. 
+- You may spend additional momentum beyond the minimum of 3M on an active defense. Your Parry, Dodge, or Block roll receives a bonus equal to momentum spent beyond the minimum of 3M.
+- You may spend less than 3M on your active defense, but you suffer a penalty equal to the difference between 3M and the momentum spent. You may attempt an active defense even if you have negative momentum; resolve your defense with a penalty equal to the difference of 3 and your current negative momentum, then reduce your current momentum by 1M, even if your momentum would become or was already negative.
 
-### Passive Defense
-Parry, Dodge, or Block an attack with minimal effort. **You may spend momentum to take this action even if it would result in holding negative momentum,** but your Parry, Dodge, or Block roll suffers a penalty equal to your current momentum count, if negative.
+*Example: Bretolomeo has a Physical Discipline Die of 1d10 and a Grace of 1. A Seething Cultist with an Attack Skill of 2 hurls a magical gout of boiling blood at him, and Bartolomeo decides to spend momentum on an Active Defense--a Dodge. In addition to the minimum requirement of 3 momentum, Bartolomeo spends an additional 2 momentum, as getting covered in boiling blood sounds deeply unpleasant. Bartolomeo's Dodge roll is 1d10 (his Physical Discipline Die) + 1 (Grace) + 2 (momentum spent beyond the minimum of 3) - 2 (the Seething Cultist's Attack Skill). Bartolomeo rolls 1d10+1.*
+
+*Example: Later, Bretolomeo has been worn down by splashes of boiling blood and has only 1 momentum remaining. The Seething Cultist attacks him again, and Bretolomeo attempts to Dodge. He spends his remaining 1M, and his Dodge roll is 1d10 (his Physical Discipline Die) + 2 (Grace) - 2 (the difference between his 1M spent and the requirement of 3M) - 2 (the Seething Cultist's Attack Skill). Bartolomeo rolls 1d10-2.*
+
+*Example: Bartolomeo is in deep trouble. After defeating the Seething Cultists, pressgang recruiters for the Aneman navy accost him as he limps back into town. After the initial furious ambush, Bartolomeo finds himself with -3 momentum. The Aneman brute swings his cudgel, and Bartolomeo does his best to roll under the blow, attempting to Dodge. His Dodge roll is 1d10 (his Physical Discipline Die) + 2 (Grace) - 6 (the difference of 3 and his current momentum) - 1 (the Aneman Brute's Attack Skill). Bartolomeo rolls 1d10-5.
