@@ -11,12 +11,12 @@
 - Attack Skill: The number subtracted from each one of a struck PC's armor die rolls, followed by the material/range/name of this NPCs means of attacking
 - Special: The NPC's unusual abilities. Defined briefly, or below the NPC stat line if necessary.
 
-**PC Statblock Example**
-Diaghilev (Mercenary 1) - Might 0, Grace 2, Grit 0, Charm 2, Lore 0, Fate 2 (1d8); P 1d10/M 1d6
-Weapons/Shield: Yatagan (Steel, Melee, Slashing), Throwing Hatchets (Ud6, Steel, Near, Piercing); Iron Buckler (Base UD4)
-Armor Ud6+0 (Mail Shirt); Max Hits: 3
-Momentum Gain/Current: 1d10+2 / 0 (-2 EoR)
-Stamina (10): 0
+**PC Statblock Example**\
+Diaghilev (Mercenary 1) - Might 0, Grace 2, Grit 0, Charm 2, Lore 0, Fate 2 (1d8); P 1d10/M 1d6\
+Weapons/Shield: Yatagan (Steel, Melee, Slashing), Throwing Hatchets (Ud6, Steel, Near, Piercing); Iron Buckler (Base UD4)\
+Armor Ud6+0 (Mail Shirt); Max Hits: 3\
+Momentum Gain/Current: 1d10+2 / 0 (-2 EoR)\
+Stamina (10): 0\
 
 ---
 
