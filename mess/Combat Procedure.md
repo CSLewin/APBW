@@ -2,14 +2,14 @@
 
 **NPC Stats: Name - Move # (Special), Defense # (description), Danger #d/Attack Skill #, Hits #, Special**
 
-**Example:** *Beetle Clan Assassin - Hits 3, Defense 3 (hidden mail shirt), Move 1 (Climb), Danger 2d/Attack Skill 2, Special: Wearying Poison (targets lose 2 momentum per strike)*
+**Example:** *Beetle Clan Assassin - Hits 3, Defense 3 (hidden mail shirt), Move 1 (Climb), Danger 2d/Attack Skill 2 (Steel, Melee, Poisoned Scimitar), Special: Wearying Poison (targets lose 2 momentum per strike)*
 
 - Hits: The number of successful strikes this NPC can endure before it is killed or disabled.
 - Defense: The number added to the momentum cost for a PC to Strike or Reposition against this NPC, and a qualitative description of the source(s) of this protection (armor, carapace, mobility, etc.)
 - Move: How many distance categories the NPC can move relative to the closest PC on its turn, and any special movement methods available.
 - Danger: The number of times a PC must roll their armor die each time they are struck by this NPC.
-- Attack Skill: The number subtracted from each one of a struck PC's armor die rolls.
-- Special: Unusual abilities the NPC has. Defined below the NPC stat line if necessary.
+- Attack Skill: The number subtracted from each one of a struck PC's armor die rolls, followed by the material/range/name of this NPCs means of attacking
+- Special: The NPC's unusual abilities. Defined briefly, or below the NPC stat line if necessary.
 
 ---
 
@@ -113,7 +113,7 @@ Change your distance relative to something and/or someone else.
 
 #### Distances and Positions:
 - **Intimate**: Near enough to headbutt.
-- **Close**: Kicking or spitting distance.
+- **Melee**: Kicking or spitting distance.
 - **Near**: Talking distance. Across a room.
 - **Far**: Singing or shouting distance.
 - **Distant**: Just far enough to see on a clear day.
