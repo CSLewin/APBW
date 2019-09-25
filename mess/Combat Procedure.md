@@ -18,6 +18,13 @@ Armor Ud6+0 (Mail Shirt); Max Hits: 3\
 Momentum Gain/Current: 1d10+2 / 0 (-2 EoR)\
 Stamina (10): 0
 
+Might 0: No change to cost to Strike. Strikes inflict 1 hit.
+Might 1: -1M cost to Strike. Strikes inflict 1 hit.
+Might 2: -1M cost to Strike. Strikes inflict 2 hits.
+Might 3: -2M cost to Strike. Strikes inflict 2 hits.
+Might 4: -2M cost to Strike. Strikes inflict 3 hits.
+Might 5: -3M cost to Strike. Strikes inflict 3 hits.
+
 | Class | Physical Discipline Die | Mental Discipline Die |
 | :---: | :---: | :---: |
 | Berserker | 1d12 | 1d4 |
@@ -30,7 +37,7 @@ Stamina (10): 0
 
 **Sometimes you've just gotta chop heads. Combat basically works like this:**
 
-1. When combat begins, each player rolls a discipline die + Grace to generate **momentum**. Roll your better discipline die if you saw the threat coming; roll your worse discipline die if it was a surprise. The result of your roll is both your starting momentum value and your **initiative score**. NPCs have initiative scores equal to their Attack Skill + 3, but NPCs do not use momentum. Turn order proceeds from highest to lowest inititive score.
+1. When combat begins, each player rolls a discipline die + Grace to generate **momentum**. Roll your better discipline die if you saw the threat coming; roll your worse discipline die if it was a surprise. The result of your roll is both your starting momentum value and your **initiative score**. NPCs have initiative scores equal to their Attack Skill + 3, but NPCs do not use momentum. Turn order proceeds from highest to lowest inititive score. If there's a tie, players go before NPCs, and tied players should decide the order in which they act.
 
 2. NPCs may do all of the following things on their turns:
 - Move OR Interact
@@ -66,7 +73,7 @@ Stamina (10): 0
 
 6. If you fail or don't bother to defend yourself and the enemy successfully Strikes you, roll your Armor Die + Grit. Dangerous enemies will impose a negative modifier on this roll; VERY dangerous foes will make you roll more than once. If you roll a total of 1 or lower on your Armor Die, the enemy's blow struck true and you take a hit. Additionally, your armor die decreases one step. You can endure a maximum number of hits equal to 2 + 1/2 your level (rounded down) + Grit. Hits beyond this limit are tremendously dangerous.
 
-Starting Armor Die is deterined by the type of armor worn. When you take a hit, reduce the Armor Die by one step (Ud8 -> Ud6 -> Ud4 -> 1 -> 0). End of Round penalties to momentum do not change as armor is damaged.
+Starting Armor Die is deterined by the type of armor worn. When you take a hit, reduce the Armor Die by one step (Ud8 -> Ud6 -> Ud4 -> 0). End of Round penalties to momentum do not change as armor is damaged.
 - No Armor: No Armor Die; all successful strikes are hits.
 - Leather: Ud4
 - Chain: Ud6
