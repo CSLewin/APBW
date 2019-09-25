@@ -16,7 +16,7 @@ Diaghilev (Mercenary 1) - Might 0, Grace 2, Grit 0, Charm 2, Lore 0, Fate 2 (1d8
 Weapons/Shield: Yatagan (Steel, Melee, Slashing), Throwing Hatchets (Ud6, Steel, Near, Piercing); Iron Buckler (Base UD4)\
 Armor Ud6+0 (Mail Shirt); Max Hits: 3\
 Momentum Gain/Current: 1d10+2 / 0 (-2 EoR)\
-Stamina (10): 0\
+Stamina (10): 0
 
 ---
 
