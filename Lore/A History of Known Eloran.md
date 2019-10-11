@@ -2,7 +2,7 @@
 
 *"If there were other empires before the Eloran Empire, we have not been taught of them. If there are other empires to come, they will not deserve the title."*
 
-Picture a rectangle drawn over a map of Earth. The four corners are pinned to Ireland, southwestern Algeria, northeastern Mongolia, and Thailand. This is, roughly, the geography of Known Eloran, and the former territory of the Eloran Empire. If you are pressed for time, you could imagine Rome and you wouldn't be too far off. Ultimately, Rome dissolved. After 230 years of continental dominance, the Eloran Empire did something more interesting.
+Picture a rectangle drawn over a map of Earth. The four corners are pinned to Ireland, southwestern Algeria, northeastern Mongolia, and Thailand. This is, roughly, the geography of Known Eloran, and the former territory of the Eloran Empire. If you are pressed for time, you could imagine Rome and you wouldn't be too far off. Ultimately, Rome dissolved. After more than two centuries of uncontestable dominance, the Eloran Empire did something more interesting.
 
 **The third most notable thing the Eloran Empire accomplished was a mastery of teleportation.** 
 
