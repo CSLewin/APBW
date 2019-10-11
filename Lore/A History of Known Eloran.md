@@ -26,7 +26,7 @@ After the nations of the continent had been conquered--Anem, Pirra, the island o
 
 ### **The Tithe of Years**
 
-200 years after the War of Unification, an additional tax was imposed on client states of the Eloran Empire. During their registration as citizens, newborns were presented to Eloran magisters who would use their art to siphon seven years from the far end of wailing infant's life. Parents could opt to give their own years in place of those of their child, and often did--it was the price of citizenship. Refusal of the tithe was punished with revocation of citizenship and banishment. The hills swelled with bandits.
+200 years after the War of Unification, an additional tax was imposed on client states of the Eloran Empire. During their registration as citizens, newborns were presented to Eloran magisters who would use their art to siphon seven years from the far end of wailing infant's life. Parents could opt to give their own years in place of those of their child, and often did--it was the price of citizenship. Refusal of the tithe was punished with revocation of citizenship and banishment. Many families refused. The hills swelled with outlaws, who quickly turned to banditry to survive.
 
 Bounties on outlaws became commonplace. Professional bounty hunters, necessary but hated for hunting their own kin, circulated. An Aneman inventor created the pneumatic rifle.
 
@@ -106,7 +106,9 @@ asdf
 
 ## The Enneagram
 
-asdf
+X: Creation/Alteration/Destruction
+
+Y: Flesh (Abjuration/Conjuration), Mind (Illusion/Enchantment), Spirit (Divination/Necromancy)
 
 only 45 unique characters; might just have to do this with an image, formatting this in markdown so far is a pain in the ass
 
