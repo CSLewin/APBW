@@ -12,11 +12,17 @@ This was an early triumph, and the core of their power. When the nascent Empire 
 
 After the nations of the continent had been conquered--Anem, Pirra, the island of Temen--the Empire made few demands. Regional governors were appointed from the native Aneman, Pirran, and Temenite populations, and instructed to collect taxes of local luxuries and raw materials. The imperial quotas were commensurate with the regional ability to produce, and the Empire guaranteed peace and prosperity in return. The entire population of each client state were considered citizens of the Empire, and fully protected under Eloran Imperial law. Where it still existed (mostly in Temen), inter-generational slavery was abolished. Imperial schools were established and staffed by Eloran instructors; 80 years after the War of Unification, one citizen out of three could read and write. Newspapers were invented. Printed books became popular. Writing desks and reading chairs became common. Cities grew. Infant mortality shrank. 150 years after the War, it wasn't unusual for the wealthy to see their sixth decade. Conflict between the Empire and the eastern island nations, Chernik and the Kingdom of Jhilal, was limited to the occasional coastal raid. The world turned.
 
-Until the Tithe of Years began.
+**The Tithe of Years**
 
-200 years after the War of Unification, an additional tax was imposed on client states of the Eloran Empire. During their registration as citizens, newborns were presented to Eloran magisters who would use their art to siphon one year of life from the wailing infant. Parents could opt to offer their own year of life in place of their child, and often did--it was the price of citizenship. 
+200 years after the War of Unification, an additional tax was imposed on client states of the Eloran Empire. During their registration as citizens, newborns were presented to Eloran magisters who would use their art to siphon one year of life from the wailing infant. Parents could opt to offer their own year of life in place of their child, and often did--it was the price of citizenship. Refusal of the tithe was rewarded with revocation of citizenship and banishment. No laws applied to outlaws; bandit gangs grew in the hills among the orchards. 
 
-The tithe's presence grew. Crimes punishable by execution replaced the headsman's sword with the lingering touch of a magister. Imperial fines became payable in bartered goods, imperial coin, months of slavery--or years of life. The destitute among the citizenry were hardest-hit. White hair and wrinkled faces bloomed throughout urban crowds and rural communities.
+Bounties on outlaws became commonplace. The pneumatic rifle was invented. Professional bounty hunters, hated and necessary, circulated.
+
+The tithe spread. Crimes punishable by execution replaced the headsman's sword with the lingering touch of a magister. Imperial fines became payable in bartered goods, imperial coin, months of slavery--or years of life. With no currency but time, the destitute among the citizenry were hardest-hit. White hair bloomed across crowds.
+
+Stolen years were funneled back to the seat of the Eloran Empire. Humming brass vessels, etched with the script of the _lingua prima_ and brimming with youth, vanished by the thousands into the southeastern desert citadels.
+
+
 
 
 
