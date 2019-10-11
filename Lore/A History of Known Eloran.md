@@ -26,9 +26,9 @@ Hardy caravans were dispatched to the Eloran deserts seeking clarity, hoping tha
 
 After months of travel, the diplomatic caravans were treated with kindness and subtlety--but as children, to be pampered, soothed, and ultimately sent home in ignorance. The Emperor of Known Eloran did not receive guests.
 
-An Aneman diplomat reported to his king that the tithe of years was not exclusively for the Emperor and his court, but also used to create sleepless workers from raw clay. No men or women bore the sweat of labor on their brow within the citadel. 
+An Aneman diplomat reported to his king that the tithe of years was not exclusively for the Emperor and his court, but also used to create sleepless workers from raw clay. Towering academies and cathedrals shadowed the dunes, but no men or women bore the sweat of labor on their brow within the citadel. 
 
-A Pirran scholar reported to her colleagues at the Academy of Libus that art--etched, woven, written, played, sung, performed, danced, sculpted, glazed, cooked, or a hundred hundred other means--overflowed from the avenues of the Imperial citadels, all exclusively produced by a caste of lithe, manic aesthetes. No men or women stirred themselves to the act of creation within the citadel.
+A Pirran scholar reported to her colleagues at the Academy of Libus that art--etched, woven, written, played, sung, performed, danced, sculpted, glazed, cooked, or a hundred hundred other means--overflowed from the avenues of the Imperial citadels, all exclusively produced by a caste of lithe, manic aesthetes. Endless crafts, strange and wonderful, poured from every workshop, but no men or women stirred themselves to the act of creation within the citadel.
 
 Temen sent no delegations. One by one, each Temenite clan had declared itself outlaw and retreated into the wild snows. The empire did not give chase. The magisters returned from that distant, frozen island to the far deserts. The walled cities were abandoned to migrant seabirds and the rough grip of wild winter roses.
 
