@@ -120,7 +120,7 @@ https://docs.google.com/spreadsheets/d/14ly-ETA8dyzjfvADrjO33SHpaHZ3bFQS2ag805j_
 `O O A M T A K A Y`\
 `R Y L I E K T C A`\
 `E O H A M A C U Z`\
-`T A O Z O Y A Z A`\
+`T A O Z O Y A Z A`
 
 ```
 A	R	T	A	Y	O	R	E	T
