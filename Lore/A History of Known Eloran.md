@@ -14,7 +14,7 @@ After the nations of the continent had been conquered--Anem, Pirra, the island o
 
 **The Tithe of Years**
 
-200 years after the War of Unification, an additional tax was imposed on client states of the Eloran Empire. During their registration as citizens, newborns were presented to Eloran magisters who would use their art to siphon one year of life from the wailing infant. Parents could opt to offer their own year of life in place of their child, and often did--it was the price of citizenship. Refusal of the tithe was rewarded with revocation of citizenship and banishment. No laws applied to outlaws; banditry grew in the hills.
+200 years after the War of Unification, an additional tax was imposed on client states of the Eloran Empire. During their registration as citizens, newborns were presented to Eloran magisters who would use their art to siphon one year of life from the wailing infant. Parents could opt to offer their own year of life in place of their child, and often did--it was the price of citizenship. Refusal of the tithe was punished with revocation of citizenship and banishment. The hills swelled with bandits.
 
 Bounties on outlaws became commonplace. Professional bounty hunters, hated and necessary, circulated. The pneumatic rifle was invented.
 
