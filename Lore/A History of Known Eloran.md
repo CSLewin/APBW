@@ -8,7 +8,7 @@ Picture a rectangle drawn over a map of Earth. The four corners are pinned to Ir
 
 This was the first triumph and the core of their power. When the nascent Empire mobilized to conquer the continent, they were unburdened by the need for roads, ships, or supply lines. Armies rarely met Eloran soldiers on the battlefield; it was much more expedient for the Empire to teleport soldiers directly into the throne rooms of enemy rulers and politely take their entire courts prisoner. The Eloran Empire did not field siege engines; when a region would not yield, notice was given in ten languages for three days before a stubborn holdfast was abruptly buried under a mountain's mass of white stone and sand. The Empire could not be invaded in return, as their homeland in the southeast of the continent was a vast, mountainous desert--tremendously difficult to traverse on foot or horseback, as the Empire maintained no roads. The Eloran Empire's War of Unification lasted just under two years, and was--aside from a few early incidents--remarkably light on casualties and collateral damage. 
 
-**The second most notable thing the Eloran Empire accomplished was successfully yoking the other nations of Known Eloran as client states.**
+**The second most notable thing the Eloran Empire accomplished was successfully yoking the other continental nations as client states.**
 
 After the nations of the continent had been conquered--Anem, Pirra, the island of Temen--the Empire made few demands. Regional governors were appointed from the native Aneman, Pirran, and Temenite populations, and instructed to collect taxes of local luxuries and raw materials. The imperial quotas were commensurate with the regional ability to produce, and the Empire guaranteed peace and prosperity in return. The entire population of each client state were considered citizens of the Empire, and fully protected under Eloran Imperial law. Where it still existed (mostly in Temen), inter-generational slavery was abolished. Imperial schools were established and staffed by Eloran instructors; 80 years after the War of Unification, one citizen out of three could read and write. Newspapers were invented. Printed books became popular. Writing desks and reading chairs became common. Cities grew. Infant mortality shrank. 150 years after the War, it wasn't unusual for the wealthy to see their sixth decade. Conflict between the Empire and the eastern island nations, Chernik and the Kingdom of Jhilal, was limited to the occasional coastal raid. The world turned.
 
@@ -26,11 +26,11 @@ Hardy caravans were dispatched to the Eloran deserts seeking clarity, hoping tha
 
 An Aneman diplomat reported to his king that the tithe of years was not exclusively for the Emperor and his court, but also used to create sleepless workers from raw clay. No men or women bore the sweat of labor on their brow within the citadel. 
 
-A Pirran scholar reported to her colleagues at the Academy of Libus that art--etched, woven, written, played, sung, performed, danced, sculpted, glazed, cooked, or a hundred hundred other means--filled the avenues of the Imperial citadels, exclusively produced by a caste of lithe, manic aesthetes. No men or women stirred themselves to the act of creation within the citadel.
+A Pirran scholar reported to her colleagues at the Academy of Libus that art--etched, woven, written, played, sung, performed, danced, sculpted, glazed, cooked, or a hundred hundred other means--overflowed from the avenues of the Imperial citadels, all exclusively produced by a caste of lithe, manic aesthetes. No men or women stirred themselves to the act of creation within the citadel.
 
 Temen sent no delegations. One by one, each Temenite clan had declared itself outlaw and retreated into the wild snows. The empire did not give chase. The magisters returned from that distant, frozen island to the far deserts. The walled cities were abandoned to migrant seabirds and the rough grip of wild winter roses. 
 
-After months of travel, the diplomatic caravans were treated with kindness and subtlety--but as children, to be pampered, soothed, and sent home in ignorance. The Emperor of Known Eloran did not receive guests.
+After months of travel, the diplomatic caravans were treated with kindness and subtlety--but as children, to be pampered, soothed, and ultimately sent home in ignorance. The Emperor of Known Eloran did not receive guests.
 
 **The third most notable thing the Eloran Empire accomplished was vanishing overnight.**
 
