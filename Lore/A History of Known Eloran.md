@@ -1,10 +1,10 @@
-# History of Known Eloran
+# A History of Known Eloran
 
 ## The Eloran Empire
 
 *"If there were other empires before the Eloran Empire, we have not been taught of them. If there are other empires to come, they will not deserve the title."*
 
-Picture a rectangle drawn over a map of Earth. The four corners are pinned to Ireland, southwestern Algeria, northeastern Mongolia, and Thailand. This is, roughly, the geography of Known Eloran, and the former territory of the Eloran Empire. If you are pressed for time, imagine Imperial Rome and you won't be too far off; other excellent options include Byzantium, Imperial China, and Imperial India. 
+Picture a rectangle drawn over a map of Earth. The four corners are pinned to Ireland, southwestern Algeria, northeastern Mongolia, and Thailand. This is, roughly, the geography of Known Eloran, and the former territory of the Eloran Empire. If you are pressed for time, imagine Imperial Rome and you won't be too far off; other excellent options include Byzantium, Imperial China, or Imperial India. 
 
 The cultural inspiration for the Eloran Empire isn't as important as their key accomplishments. Ultimately, the Roman empire dissolved. After more than two centuries of uncontestable dominance, the Eloran Empire did something more interesting.
 
@@ -26,7 +26,7 @@ After the nations of the continent had been conquered--Anem, Pirra, the island o
 
 ### **The Tithe of Years**
 
-200 years after the War of Unification, an additional tax was imposed on client states of the Eloran Empire. During their registration as citizens, newborns were presented to Eloran magisters who would use their art to siphon seven years from the far end of wailing infant's life. Parents could opt to give their own years in place of those of their child, and often did--it was the price of citizenship. Refusal of the tithe was punished with revocation of citizenship and banishment. Many families refused. The hills swelled with outlaws, who quickly turned to banditry to survive.
+200 years after the War of Unification, an additional tax was imposed on client states of the Eloran Empire. During their registration as citizens, newborns were presented to Eloran magisters who would use their art to siphon seven years from the far end of wailing infant's life. Parents could opt to give their own years in place of those of their child, and often did. Refusal of the tithe was punished with revocation of citizenship and banishment. Many families refused. The hills swelled with outlaws, who quickly turned to banditry to survive.
 
 Bounties on outlaws became commonplace. Professional bounty hunters, necessary but hated for hunting their own kin, circulated. An Aneman inventor created the pneumatic rifle.
 
@@ -88,7 +88,7 @@ The third most notable thing the Eloran Empire accomplished was vanishing overni
 
 ### After the Scatter
 
-## Jhilal
+## The Kingdom of Jhilal
 
 ### Before the Empire
 
