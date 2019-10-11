@@ -34,4 +34,4 @@ After months of travel, the diplomatic caravans were treated with kindness and s
 
 **The third most notable thing the Eloran Empire accomplished was vanishing overnight.**
 
-After 230 years of 
+[...]
