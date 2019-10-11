@@ -16,7 +16,7 @@ After the nations of the continent had been conquered--Anem, Pirra, the island o
 
 200 years after the War of Unification, an additional tax was imposed on client states of the Eloran Empire. During their registration as citizens, newborns were presented to Eloran magisters who would use their art to siphon one year of life from the wailing infant. Parents could opt to offer their own year of life in place of their child, and often did--it was the price of citizenship. Refusal of the tithe was punished with revocation of citizenship and banishment. The hills swelled with bandits.
 
-Bounties on outlaws became commonplace. Professional bounty hunters, hated and necessary, circulated. The pneumatic rifle was invented.
+Bounties on outlaws became commonplace. Professional bounty hunters, necessary but hated for hunting their own kin, circulated. The pneumatic rifle was invented.
 
 The Empire's hunger for years grew, and the tithe spread. Crimes punishable by execution replaced the headsman's sword with the lingering touch of a magister. Fines became payable in bartered goods, imperial coin, months of slavery--or years of life. With no currency but time, the destitute among the citizenry were hardest-hit. White hair bloomed across market-day crowds like mold.
 
