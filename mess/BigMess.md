@@ -2,7 +2,7 @@ Homebrew Ruleset
 
 Special Thanks:
 	Maissa Chouraki-Lewin. 
-	Daniel Skiles, Matt Satzler, Mark Trost, Evan Losi, Nicolaas Van Maerssen, Philip Broughton, Thomas Harvey
+	Daniel Skiles, Matt Satzler, Mark Trost, Evan Losi, Nicolaas Van Maerssen, Philip Broughton, Thomas Harvey, Lance Rogers
 	Luka Rejec (WizardThiefFighter), Skerples (Coins And Scrolls), Scott Alexander (Slate Star Codex, UNSONG)
 	AnyDice.com
 
