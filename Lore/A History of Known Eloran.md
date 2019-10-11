@@ -108,19 +108,19 @@ asdf
 
 asdf
 
-only 45 unique characters
+only 45 unique characters; might just have to do this with an image, formatting this in markdown so far is a pain in the ass
 
 https://docs.google.com/spreadsheets/d/14ly-ETA8dyzjfvADrjO33SHpaHZ3bFQS2ag805j__NY/edit#gid=1650114902
 
-`A R T A Y O R E T`
-`R I E U S O Y O A`
-`T E I R U A L H O`
-`A U R O S M I A Z`
-`Y S U S A T E M O`
-`O O A M T A K A Y`
-`R Y L I E K T C A`
-`E O H A M A C U Z`
-`T A O Z O Y A Z A`
+`A R T A Y O R E T`\
+`R I E U S O Y O A`\
+`T E I R U A L H O`\
+`A U R O S M I A Z`\
+`Y S U S A T E M O`\
+`O O A M T A K A Y`\
+`R Y L I E K T C A`\
+`E O H A M A C U Z`\
+`T A O Z O Y A Z A`\
 
 ```
 A	R	T	A	Y	O	R	E	T
