@@ -18,19 +18,19 @@ After the nations of the continent had been conquered--Anem, Pirra, the island o
 
 Bounties on outlaws became commonplace. Professional bounty hunters, necessary but hated for hunting their own kin, circulated. The pneumatic rifle was invented.
 
-The Empire's hunger for years grew, and the tithe spread. Crimes punishable by execution replaced the headsman's sword with the lingering touch of a magister. Fines became payable in bartered goods, imperial coin, months of slavery--or years of life. With no currency but time, the destitute among the citizenry were hardest-hit. White hair bloomed across market-day crowds like mold.
+The Empire's hunger for years grew, and the tithe spread. Crimes punishable by execution replaced the headsman's sword with the lingering touch of an imperial magister. Fines became payable in bartered goods, minted coin, months of slavery--or years of life. With no currency but time, youth withered among the most destitute of the citizenry. White hair bloomed across market-day crowds like mold.
 
-The tithe of years was funneled back to the seat of the Eloran Empire. Thousands of humming brass vessels, etched with the blocky script of the _lingua prima_ and brimming with youth, vanished into the southeastern desert citadels. Taxation was relaxed; the Eloran Empire demanded no further luxuries, no raw metals or heavy gems--only endless years of youth.
+The tithe of years was funneled back to the seat of the Eloran Empire. Thousands of humming brass vessels, etched with the blocky script of the _lingua prima_ and brimming with youth, vanished into the southeastern desert citadels. Mundane taxation was relaxed; the Eloran Empire demanded no new luxuries, no raw metals or heavy gems--only endless years of youth.
 
-Hardy caravans were dispatched to the Eloran deserts seeking clarity, hoping that diplomacy might solve what riot and rebellion could not possibly hope to affect. 
+Hardy caravans were dispatched to the Eloran deserts seeking clarity, hoping that diplomacy might solve what riot and rebellion could not possibly hope to affect.
+
+After months of travel, the diplomatic caravans were treated with kindness and subtlety--but as children, to be pampered, soothed, and ultimately sent home in ignorance. The Emperor of Known Eloran did not receive guests.
 
 An Aneman diplomat reported to his king that the tithe of years was not exclusively for the Emperor and his court, but also used to create sleepless workers from raw clay. No men or women bore the sweat of labor on their brow within the citadel. 
 
 A Pirran scholar reported to her colleagues at the Academy of Libus that art--etched, woven, written, played, sung, performed, danced, sculpted, glazed, cooked, or a hundred hundred other means--overflowed from the avenues of the Imperial citadels, all exclusively produced by a caste of lithe, manic aesthetes. No men or women stirred themselves to the act of creation within the citadel.
 
-Temen sent no delegations. One by one, each Temenite clan had declared itself outlaw and retreated into the wild snows. The empire did not give chase. The magisters returned from that distant, frozen island to the far deserts. The walled cities were abandoned to migrant seabirds and the rough grip of wild winter roses. 
-
-After months of travel, the diplomatic caravans were treated with kindness and subtlety--but as children, to be pampered, soothed, and ultimately sent home in ignorance. The Emperor of Known Eloran did not receive guests.
+Temen sent no delegations. One by one, each Temenite clan had declared itself outlaw and retreated into the wild snows. The empire did not give chase. The magisters returned from that distant, frozen island to the far deserts. The walled cities were abandoned to migrant seabirds and the rough grip of wild winter roses.
 
 **The third most notable thing the Eloran Empire accomplished was vanishing overnight.**
 
