@@ -4,6 +4,9 @@
 
 *"If there were other empires before the Eloran Empire, we have not been taught of them. If there are other empires to come, they will not deserve the title."*
 
+> I didn't *mean* for this setting writeup to turn into a commentary on unregulated experimentation by the social elite on the shared commons, the inherent dangers of closed-source information networks, and tribalism, but here we are. 
+> -Craig, October 2019
+
 Picture a rectangle drawn over a map of Earth. The four corners are pinned to Ireland, southwestern Algeria, northeastern Mongolia, and Thailand. This is, roughly, the geography of Known Eloran, and the former territory of the Eloran Empire. If you are pressed for time, imagine Imperial Rome and you won't be too far off; other excellent options include Byzantium, Imperial China, or Imperial India. 
 
 The cultural inspiration for the Eloran Empire isn't as important as their key accomplishments. Ultimately, the Roman empire dissolved. After more than two centuries of uncontestable dominance, the Eloran Empire did something more interesting.
@@ -42,19 +45,21 @@ A Pirran scholar reported to her colleagues at the Libussan Academy that art--et
 
 Temen sent no delegations. One by one, each Temenite clan had declared itself outlaw and retreated into the wild snows. The empire did not give chase. The magisters returned from that distant, frozen island to the far deserts. The walled cities were abandoned to migrant seabirds and the rough grip of wild winter roses.
 
-### The Growing Moon
+### The Looming Moon
 
 The third most notable thing the Eloran Empire accomplished was vanishing overnight.
 
-[...]
+Square-edged chunks of the Eloran Empire's homeland ranging in size from a single building to 10 square city blocks were teleported across the planet, each section of turf and construction exchanged seemingly at random with a similarly sized portion of land, complete with animals, plants, and people. ~90% of living creatures so displaced were killed, either by collapsing rubble, falling through hundreds of feet of elevation difference, trauma and suffocation from partial coincidence with other objects, or secondary victims of injury, starvation, thirst, or the chaos that broke out among the survivors.
+
+The moon abruptly appeared ten times larger and closer to the planet, pinned in geostationary orbit over a large, geothermally-active island midway between the eastern Pirran coast and Jhilal. Tidal charts and coastal maps across the world were rendered useless overnight. A 2000-mile-wide lunar shadow--**the Moonshadow**--fundamentally changed the sea and island below it. Most plants died within weeks from the lack of sunlight and terrible cold. Animals that could not hunt each other quickly withered.
+
+Three months later, spores from the Looming Moon made landfall on Known Eloran. Lava drawn from the depths of the planet by the moon's gravity reached the surface, and the Moonshadow changed again--from a wasteland choked with rotting greenery and starving predators to a blooming fungal hell. Some predators adapted to hunt each other; some were _changed_. Drifting steam wreathed towering clusters of fruiting bodies and mycoprotein biomass, all backlit by the lurid, neon flames of the burning breath of the earth.
+
+The Eloran Emperor, his courtiers and advisors, his entire high council of Luminous Magisters, and every single orchard and fruit tree in the Imperial Homeland vanished entirely. With the disappearance of the Luminous Magisters, The Imperial Citadel has never been found elsewhere, and rumors insist that is remains the only building undisturbed by the catastrophe of the Looming Moon, still casting a long shadow over a perfect, mile-wide circle of white sand.
 
 ## The Moonshadow
 
-### Before the Empire
-
-### After the War
-
-### After the Scatter
+### After the Looming Moon
 
 ## Anem
 
@@ -62,7 +67,7 @@ The third most notable thing the Eloran Empire accomplished was vanishing overni
 
 ### After the War
 
-### After the Scatter
+### After the Looming Moon
 
 ## Pirra
 
@@ -70,15 +75,15 @@ The third most notable thing the Eloran Empire accomplished was vanishing overni
 
 ### After the War
 
-### After the Scatter
+### After the Looming Moon
 
-## Temen
+## The City-States of Temen
 
 ### Before the Empire
 
 ### After the War
 
-### After the Scatter
+### After the Looming Moon
 
 ## Chernik
 
@@ -86,7 +91,7 @@ The third most notable thing the Eloran Empire accomplished was vanishing overni
 
 ### After the War
 
-### After the Scatter
+### After the Looming Moon
 
 ## The Kingdom of Jhilal
 
@@ -94,11 +99,17 @@ The third most notable thing the Eloran Empire accomplished was vanishing overni
 
 ### After the War
 
-### After the Scatter
+### After the Looming Moon
 
 # Magic
 
-Magic is broken. 
+[This is an explanation for why standard D&D Vancian magic doesn't work any more, but also why the assumptions of the setting are that the Eloran Empire had access to it.]
+
+Magic has broken. 
+
+It was never a sure thing, but the Empire believed they understood it, and few could say otherwise. Per Imperial doctrine, magic was a wild energy of unknown origin that could be accessed with careful ritual and mental preparation. The mortal mind could, at best, comprehend these energies through a darkling glass, like a child peeking through a keyhold, and only through rote memorization. The rituals used to compel magical energy were exhaustively catalogued; experiments were conducted to explore the limits of magical possibility, and firm guidelines were written to prevent an errant magister 
+
+The mortal mind can, at best, consider the complexities Imperial Magisters memorized 
 
 ## Prima Lingua
 
@@ -114,14 +125,14 @@ only 45 unique characters; might just have to do this with an image, formatting 
 
 https://docs.google.com/spreadsheets/d/14ly-ETA8dyzjfvADrjO33SHpaHZ3bFQS2ag805j__NY/edit#gid=1650114902
 
-`A R T A Y O R E T`\
-`R I E U S O Y O A`\
-`T E I R U A L H O`\
-`A U R O S M I A Z`\
-`Y S U S A T E M O`\
-`O O A M T A K A Y`\
-`R Y L I E K T C A`\
-`E O H A M A C U Z`\
+`A R T A Y O R E T`
+`R I E U S O Y O A`
+`T E I R U A L H O`
+`A U R O S M I A Z`
+`Y S U S A T E M O`
+`O O A M T A K A Y`
+`R Y L I E K T C A`
+`E O H A M A C U Z`
 `T A O Z O Y A Z A`
 
 ```
@@ -136,3 +147,16 @@ E	O	H	A	M	A	C	U	Z
 T	A	O	Z	O	Y	A	Z	A
 ```
 
+# Blogpost topics TODO
+
+- Dungeon Context: Who built this place? Why? What happened? Who's here now?
+- Dungeon Generation: Creating a [5-floor, 60-room complex](https://i.imgur.com/4Hn95zG.jpg) in about 20 minutes.
+- System-Neutral Contextual Random Encounters via Overloaded Dice Rolls
+- Unstable Settings: Why geopolitics matters to dungeon crawlers.
+- Peaceful Retirement (Or, Why Are We Even Doing This?)
+- How and Why the Dungeon Changes Over Time
+- Magic: What's Necessary for a Roguelike?
+- Nested Systems: Pressing One's Luck with Inventory, Food, Water, and Light
+- Treasure: Less Paperwork, More Novelty
+- Continuity Through Morale, Retreat, and Rivalries
+- Black Doors and Deep Horrors: Challenges for Powerful Delvers
