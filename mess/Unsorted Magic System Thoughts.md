@@ -6,7 +6,7 @@ Flesh - Summoning - This is a good skillset to have all-around.
 
 	The latest development in the brave new post-Bitcoin world is crypto-equity. At this point I’ve gone from wanting to praise these inventors as bold libertarian heroes to wanting to drag them in front of a blackboard and making them write a hundred times “I WILL NOT CALL UP THAT WHICH I CANNOT PUT DOWN”
 
-Mind - Beguileing - These seem well-linked.
+Mind - Beguiling - These seem well-linked.
 	enchantment - manipulate minds, emotions, thoughts
 	illusion - Warp and beguile the senses. False seemings.
 
